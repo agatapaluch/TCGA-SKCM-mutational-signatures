@@ -24,7 +24,7 @@ The analysis included:
 ├── databases/               # Custom signature databases
 ├── metadata/                # Clinical/sample metadata
 ├── plots/                   # Generated plots
-├── predictor/               # Machine learning classifier notebook
+├── classifier/              # Machine learning classifier notebook
 ├── survival_analysis/       # R scripts and survival analysis outputs
 ├── README.md
 └── .gitignore
