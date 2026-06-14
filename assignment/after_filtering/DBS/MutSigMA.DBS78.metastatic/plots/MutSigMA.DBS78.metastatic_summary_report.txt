@@ -1,0 +1,21 @@
+MutSigMA - Mutational Signatures Analysis Summary Report
+=========================================================
+
+Dataset: MutSigMA.DBS78.metastatic
+Dataset Overview:
+- Number of samples: 314
+- Number of signatures: 2
+
+Top 10 Most Prevalent Signatures (by number of patients):
+ 1. DBS1: 303 patients (96.5%) - UV
+ 2. DBS19: 16 patients (5.1%) - Unknown
+
+Etiology Distribution:
+----------------------------------------
+By number of different signatures:
+- UV: 1 signatures
+- Unknown: 1 signatures
+
+By patient prevalence (how many patients have each etiology):
+- UV: 303 patients (96.5%)
+- Unknown: 16 patients (5.1%)

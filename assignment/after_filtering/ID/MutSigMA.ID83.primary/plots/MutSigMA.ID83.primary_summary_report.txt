@@ -1,0 +1,27 @@
+MutSigMA - Mutational Signatures Analysis Summary Report
+=========================================================
+
+Dataset: MutSigMA.ID83.primary
+Dataset Overview:
+- Number of samples: 65
+- Number of signatures: 4
+
+Top 10 Most Prevalent Signatures (by number of patients):
+ 1. ID8: 31 patients (47.7%) - NHEJ
+ 2. ID3: 23 patients (35.4%) - Tobacco
+ 3. ID13: 22 patients (33.8%) - UV
+ 4. ID11: 6 patients (9.2%) - Unknown
+
+Etiology Distribution:
+----------------------------------------
+By number of different signatures:
+- Tobacco: 1 signatures
+- NHEJ: 1 signatures
+- Unknown: 1 signatures
+- UV: 1 signatures
+
+By patient prevalence (how many patients have each etiology):
+- NHEJ: 31 patients (47.7%)
+- Tobacco: 23 patients (35.4%)
+- UV: 22 patients (33.8%)
+- Unknown: 6 patients (9.2%)

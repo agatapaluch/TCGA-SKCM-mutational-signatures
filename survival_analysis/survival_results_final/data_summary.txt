@@ -1,0 +1,73 @@
+============================================================
+TCGA-SKCM survival analysis summary
+============================================================
+
+Original sample type counts:
+
+Metastasis    Primary 
+       367         81 
+
+Submitted Specimen Dx records per patient:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+      1       1       1       1       1       1      15 
+
+Sample diagnosis months summary:
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max.     NA's 
+ -0.0657   0.4599  13.5677  35.3026  46.8791 356.3403       15 
+
+OS months from initial diagnosis:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+   0.00   18.11   39.75   62.13   79.66  369.92      15 
+
+OS months from sample diagnosis:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+   0.00   10.38   18.54   28.00   34.91  185.19      22 
+
+DSS months from initial diagnosis:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+   0.00   18.11   39.75   62.13   79.66  369.92      15 
+
+DSS months from sample diagnosis:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+   0.00   10.38   18.54   28.00   34.91  185.19      22 
+
+PFS months from initial diagnosis:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+  0.000   9.279  24.657  43.006  51.369 368.774      14 
+
+PFS months from sample diagnosis:
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max.      NA's 
+-209.4850    0.9869    5.9514    8.7073   15.9575  147.4425        21 
+
+Valid OS from sample counts:
+
+Metastasis    Primary 
+       347         78 
+
+Valid DSS from sample counts:
+
+Metastasis    Primary 
+       347         78 
+
+Valid PFS from sample counts:
+
+Metastasis    Primary 
+       273         78 
+
+OS event counts by sample type:
+            
+               0   1
+  Metastasis 180 187
+  Primary     51  30
+
+DSS event counts by sample type:
+            
+               0   1
+  Metastasis 198 169
+  Primary     58  23
+
+PFS event counts by sample type:
+            
+               0   1
+  Metastasis  95 272
+  Primary     45  36

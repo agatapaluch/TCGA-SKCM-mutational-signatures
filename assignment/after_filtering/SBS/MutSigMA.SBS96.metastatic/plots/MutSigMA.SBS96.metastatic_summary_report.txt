@@ -1,0 +1,36 @@
+MutSigMA - Mutational Signatures Analysis Summary Report
+=========================================================
+
+Dataset: MutSigMA.SBS96.metastatic
+Dataset Overview:
+- Number of samples: 361
+- Number of signatures: 9
+
+Top 10 Most Prevalent Signatures (by number of patients):
+ 1. SBS1: 345 patients (95.6%) - Clock-like
+ 2. SBS7a: 324 patients (89.8%) - UV
+ 3. SBS7b: 322 patients (89.2%) - UV
+ 4. SBS5: 299 patients (82.8%) - Clock-like
+ 5. SBS10b: 101 patients (28.0%) - Polymerase mutation
+ 6. SBS15: 13 patients (3.6%) - dMMR
+ 7. SBS87: 12 patients (3.3%) - Cancer treatment
+ 8. SBS31: 9 patients (2.5%) - Cancer treatment
+ 9. SBS19: 6 patients (1.7%) - Unknown
+
+Etiology Distribution:
+----------------------------------------
+By number of different signatures:
+- Clock-like: 2 signatures
+- UV: 2 signatures
+- Cancer treatment: 2 signatures
+- Polymerase mutation: 1 signatures
+- dMMR: 1 signatures
+- Unknown: 1 signatures
+
+By patient prevalence (how many patients have each etiology):
+- Clock-like: 357 patients (98.9%)
+- UV: 329 patients (91.1%)
+- Polymerase mutation: 101 patients (28.0%)
+- Cancer treatment: 18 patients (5.0%)
+- dMMR: 13 patients (3.6%)
+- Unknown: 6 patients (1.7%)

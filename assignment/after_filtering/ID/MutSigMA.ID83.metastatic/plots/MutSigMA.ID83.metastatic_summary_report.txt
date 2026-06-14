@@ -1,0 +1,43 @@
+MutSigMA - Mutational Signatures Analysis Summary Report
+=========================================================
+
+Dataset: MutSigMA.ID83.metastatic
+Dataset Overview:
+- Number of samples: 324
+- Number of signatures: 18
+
+Top 10 Most Prevalent Signatures (by number of patients):
+ 1. ID8: 129 patients (39.8%) - NHEJ
+ 2. ID13: 84 patients (25.9%) - UV
+ 3. ID3: 69 patients (21.3%) - Tobacco
+ 4. ID1: 49 patients (15.1%) - Replication slippage
+ 5. ID11: 29 patients (9.0%) - Unknown
+ 6. ID17: 18 patients (5.6%) - TOP mutation
+ 7. ID15: 17 patients (5.2%) - Unknown
+ 8. ID4: 14 patients (4.3%) - TOP mutation
+ 9. ID20: 14 patients (4.3%) - Unknown
+10. ID2: 13 patients (4.0%) - Replication slippage
+
+Etiology Distribution:
+----------------------------------------
+By number of different signatures:
+- Unknown: 8 signatures
+- Replication slippage: 2 signatures
+- TOP mutation: 2 signatures
+- Tobacco: 1 signatures
+- HRD: 1 signatures
+- dMMR: 1 signatures
+- NHEJ: 1 signatures
+- UV: 1 signatures
+- Colibactin: 1 signatures
+
+By patient prevalence (how many patients have each etiology):
+- NHEJ: 129 patients (39.8%)
+- Unknown: 97 patients (29.9%)
+- UV: 84 patients (25.9%)
+- Tobacco: 69 patients (21.3%)
+- Replication slippage: 59 patients (18.2%)
+- TOP mutation: 32 patients (9.9%)
+- Colibactin: 13 patients (4.0%)
+- dMMR: 9 patients (2.8%)
+- HRD: 7 patients (2.2%)

@@ -1,0 +1,1965 @@
+PATIENT_ID	START_DATE	STOP_DATE	EVENT_TYPE	STATUS	PATHOLOGIC_STAGE	SYSTEM_VERSION	PATHOLOGIC_M	PATHOLOGIC_N	PATHOLOGIC_T	ANATOMIC_SITE	TUMOR_STATUS	VITAL_STATUS
+TCGA-3N-A9WB	518		STATUS	DECEASED								
+TCGA-3N-A9WD	395		STATUS	DECEASED								
+TCGA-BF-A1PX	282		STATUS	DECEASED								
+TCGA-D3-A1Q1	504		STATUS	DECEASED								
+TCGA-D3-A1Q3	507		STATUS	DECEASED								
+TCGA-D3-A1Q5	3424		STATUS	DECEASED								
+TCGA-D3-A1Q6	2184		STATUS	DECEASED								
+TCGA-D3-A1Q8	854		STATUS	DECEASED								
+TCGA-D3-A1Q9	961		STATUS	DECEASED								
+TCGA-D3-A2J6	1321		STATUS	DECEASED								
+TCGA-D3-A2J7	3136		STATUS	DECEASED								
+TCGA-D3-A2J8	1992		STATUS	DECEASED								
+TCGA-D3-A2J9	723		STATUS	DECEASED								
+TCGA-D3-A2JB	5110		STATUS	DECEASED								
+TCGA-D3-A2JD	361		STATUS	DECEASED								
+TCGA-D3-A2JE	841		STATUS	DECEASED								
+TCGA-D3-A2JG	3453		STATUS	DECEASED								
+TCGA-D3-A2JK	368		STATUS	DECEASED								
+TCGA-D3-A3C6	1766		STATUS	DECEASED								
+TCGA-D3-A3CE	1832		STATUS	DECEASED								
+TCGA-D3-A3CF	746		STATUS	DECEASED								
+TCGA-D3-A3ML	422		STATUS	DECEASED								
+TCGA-D3-A3MO	284		STATUS	DECEASED								
+TCGA-D3-A8GB	938		STATUS	DECEASED								
+TCGA-D3-A8GC	2421		STATUS	DECEASED								
+TCGA-D3-A8GI	1780		STATUS	DECEASED								
+TCGA-D3-A8GL	2711		STATUS	DECEASED								
+TCGA-D3-A8GQ	884		STATUS	DECEASED								
+TCGA-D3-A8GR	3943		STATUS	DECEASED								
+TCGA-D3-A8GS	3564		STATUS	DECEASED								
+TCGA-D3-A8GV	5101		STATUS	DECEASED								
+TCGA-EE-A17X	907		STATUS	DECEASED								
+TCGA-EE-A17Y	828		STATUS	DECEASED								
+TCGA-EE-A17Z	263		STATUS	DECEASED								
+TCGA-EE-A180	2889		STATUS	DECEASED								
+TCGA-EE-A181	1026		STATUS	DECEASED								
+TCGA-EE-A182	447		STATUS	DECEASED								
+TCGA-EE-A183	818		STATUS	DECEASED								
+TCGA-EE-A184	2073		STATUS	DECEASED								
+TCGA-EE-A185	151		STATUS	DECEASED								
+TCGA-EE-A20C	4601		STATUS	DECEASED								
+TCGA-EE-A20H	5118		STATUS	DECEASED								
+TCGA-EE-A20I	412		STATUS	DECEASED								
+TCGA-EE-A29A	1927		STATUS	DECEASED								
+TCGA-EE-A29D	425		STATUS	DECEASED								
+TCGA-EE-A29G	2192		STATUS	DECEASED								
+TCGA-EE-A29L	79		STATUS	DECEASED								
+TCGA-EE-A29N	566		STATUS	DECEASED								
+TCGA-EE-A29V	787		STATUS	DECEASED								
+TCGA-EE-A29X	545		STATUS	DECEASED								
+TCGA-EE-A2A0	1424		STATUS	DECEASED								
+TCGA-EE-A2A5	1195		STATUS	DECEASED								
+TCGA-EE-A2GP	423		STATUS	DECEASED								
+TCGA-EE-A2M5	659		STATUS	DECEASED								
+TCGA-EE-A2M7	877		STATUS	DECEASED								
+TCGA-EE-A2M8	601		STATUS	DECEASED								
+TCGA-EE-A2MC	1871		STATUS	DECEASED								
+TCGA-EE-A2MD	1438		STATUS	DECEASED								
+TCGA-EE-A2ME	3141		STATUS	DECEASED								
+TCGA-EE-A2MF	8174		STATUS	DECEASED								
+TCGA-EE-A2MG	3139		STATUS	DECEASED								
+TCGA-EE-A2MH	516		STATUS	DECEASED								
+TCGA-EE-A2MI	6225		STATUS	DECEASED								
+TCGA-EE-A2MJ	2927		STATUS	DECEASED								
+TCGA-EE-A2MM	5107		STATUS	DECEASED								
+TCGA-EE-A2MN	1446		STATUS	DECEASED								
+TCGA-EE-A2MQ	1315		STATUS	DECEASED								
+TCGA-EE-A3AF	420		STATUS	DECEASED								
+TCGA-EE-A3AH	4222		STATUS	DECEASED								
+TCGA-EE-A3J3	5237		STATUS	DECEASED								
+TCGA-EE-A3J4	3869		STATUS	DECEASED								
+TCGA-EE-A3J5	1124		STATUS	DECEASED								
+TCGA-EE-A3J8	1044		STATUS	DECEASED								
+TCGA-EE-A3JA	1618		STATUS	DECEASED								
+TCGA-EE-A3JD	832		STATUS	DECEASED								
+TCGA-ER-A193	955		STATUS	DECEASED								
+TCGA-ER-A194	1354		STATUS	DECEASED								
+TCGA-ER-A195	1078		STATUS	DECEASED								
+TCGA-ER-A197	424		STATUS	DECEASED								
+TCGA-ER-A198	1544		STATUS	DECEASED								
+TCGA-ER-A199	279		STATUS	DECEASED								
+TCGA-ER-A19B	2993		STATUS	DECEASED								
+TCGA-ER-A19C	1487		STATUS	DECEASED								
+TCGA-ER-A19D	383		STATUS	DECEASED								
+TCGA-ER-A19E	396		STATUS	DECEASED								
+TCGA-ER-A19F	802		STATUS	DECEASED								
+TCGA-ER-A19H	4634		STATUS	DECEASED								
+TCGA-ER-A19K	469		STATUS	DECEASED								
+TCGA-ER-A19L	4000		STATUS	DECEASED								
+TCGA-ER-A19M	1857		STATUS	DECEASED								
+TCGA-ER-A19P	4930		STATUS	DECEASED								
+TCGA-ER-A19Q	1548		STATUS	DECEASED								
+TCGA-ER-A19W	4507		STATUS	DECEASED								
+TCGA-ER-A2NC	1333		STATUS	DECEASED								
+TCGA-ER-A2ND	710		STATUS	DECEASED								
+TCGA-ER-A2NE	613		STATUS	DECEASED								
+TCGA-ER-A3ES	7514		STATUS	DECEASED								
+TCGA-ER-A42H	426		STATUS	DECEASED								
+TCGA-FR-A8YC	1059		STATUS	DECEASED								
+TCGA-FS-A1YW	6598		STATUS	DECEASED								
+TCGA-FS-A1YX	1478		STATUS	DECEASED								
+TCGA-FS-A1YY	6953		STATUS	DECEASED								
+TCGA-FS-A1Z0	6164		STATUS	DECEASED								
+TCGA-FS-A1Z3	636		STATUS	DECEASED								
+TCGA-FS-A1Z4	854		STATUS	DECEASED								
+TCGA-FS-A1Z7	237		STATUS	DECEASED								
+TCGA-FS-A1ZA	843		STATUS	DECEASED								
+TCGA-FS-A1ZB	1486		STATUS	DECEASED								
+TCGA-FS-A1ZC	10870		STATUS	DECEASED								
+TCGA-FS-A1ZD	1628		STATUS	DECEASED								
+TCGA-FS-A1ZF	470		STATUS	DECEASED								
+TCGA-FS-A1ZG	295		STATUS	DECEASED								
+TCGA-FS-A1ZH	996		STATUS	DECEASED								
+TCGA-FS-A1ZJ	1441		STATUS	DECEASED								
+TCGA-FS-A1ZK	728		STATUS	DECEASED								
+TCGA-FS-A1ZN	730		STATUS	DECEASED								
+TCGA-FS-A1ZP	2273		STATUS	DECEASED								
+TCGA-FS-A1ZQ	4062		STATUS	DECEASED								
+TCGA-FS-A1ZR	347		STATUS	DECEASED								
+TCGA-FS-A1ZU	808		STATUS	DECEASED								
+TCGA-FS-A1ZY	824		STATUS	DECEASED								
+TCGA-FS-A1ZZ	822		STATUS	DECEASED								
+TCGA-FS-A4F2	1525		STATUS	DECEASED								
+TCGA-FS-A4F4	2028		STATUS	DECEASED								
+TCGA-FS-A4F5	874		STATUS	DECEASED								
+TCGA-FS-A4F8	5318		STATUS	DECEASED								
+TCGA-FS-A4FB	813		STATUS	DECEASED								
+TCGA-GF-A769	1070		STATUS	DECEASED								
+TCGA-GN-A263	467		STATUS	DECEASED								
+TCGA-GN-A264	3587		STATUS	DECEASED								
+TCGA-GN-A266	308		STATUS	DECEASED								
+TCGA-GN-A267	1960		STATUS	DECEASED								
+TCGA-GN-A268	1910		STATUS	DECEASED								
+TCGA-GN-A269	170		STATUS	DECEASED								
+TCGA-GN-A26A	988		STATUS	DECEASED								
+TCGA-GN-A26C	821		STATUS	DECEASED								
+TCGA-GN-A8LK	1524		STATUS	DECEASED								
+TCGA-GN-A8LL	650		STATUS	DECEASED								
+TCGA-GN-A9SD	1807		STATUS	DECEASED								
+TCGA-QB-AA9O	549		STATUS	DECEASED								
+TCGA-W3-A825	1917		STATUS	DECEASED								
+TCGA-W3-A828	3683		STATUS	DECEASED								
+TCGA-W3-AA1O	122		STATUS	DECEASED								
+TCGA-W3-AA1Q	2101		STATUS	DECEASED								
+TCGA-W3-AA1R	3379		STATUS	DECEASED								
+TCGA-W3-AA1V	1280		STATUS	DECEASED								
+TCGA-W3-AA21	3195		STATUS	DECEASED								
+TCGA-D3-A2JN	2022		STATUS	DECEASED								
+TCGA-D3-A8GM	3259		STATUS	DECEASED								
+TCGA-D9-A1JX	216		STATUS	DECEASED								
+TCGA-D9-A3Z1	468		STATUS	DECEASED								
+TCGA-D9-A3Z4	519		STATUS	DECEASED								
+TCGA-D9-A4Z2	190		STATUS	DECEASED								
+TCGA-D9-A4Z6	561		STATUS	DECEASED								
+TCGA-D9-A6EG	698		STATUS	DECEASED								
+TCGA-DA-A1HW	1096		STATUS	DECEASED								
+TCGA-DA-A1I0	620		STATUS	DECEASED								
+TCGA-DA-A1I2	5370		STATUS	DECEASED								
+TCGA-DA-A1I4	1093		STATUS	DECEASED								
+TCGA-DA-A1I8	1640		STATUS	DECEASED								
+TCGA-DA-A1IA	2005		STATUS	DECEASED								
+TCGA-DA-A1IB	1235		STATUS	DECEASED								
+TCGA-DA-A1IC	2071		STATUS	DECEASED								
+TCGA-DA-A3F2	1032		STATUS	DECEASED								
+TCGA-DA-A3F3	319		STATUS	DECEASED								
+TCGA-DA-A3F5	6873		STATUS	DECEASED								
+TCGA-DA-A95Y	430		STATUS	DECEASED								
+TCGA-EB-A3Y7	326		STATUS	DECEASED								
+TCGA-EB-A4IQ	636		STATUS	DECEASED								
+TCGA-EB-A4P0	326		STATUS	DECEASED								
+TCGA-EB-A5FP	454		STATUS	DECEASED								
+TCGA-EB-A5KH	619		STATUS	DECEASED								
+TCGA-EB-A5SE	401		STATUS	DECEASED								
+TCGA-EB-A5SF	369		STATUS	DECEASED								
+TCGA-EB-A5VU	321		STATUS	DECEASED								
+TCGA-EB-A6QZ	352		STATUS	DECEASED								
+TCGA-EB-A6R0	608		STATUS	DECEASED								
+TCGA-EB-A42Y	721		STATUS	DECEASED								
+TCGA-EB-A44N	205		STATUS	DECEASED								
+TCGA-EB-A44R	315		STATUS	DECEASED								
+TCGA-EB-A57M	472		STATUS	DECEASED								
+TCGA-EE-A2GD	10346		STATUS	DECEASED								
+TCGA-EE-A2GJ	3266		STATUS	DECEASED								
+TCGA-EE-A2GN	3106		STATUS	DECEASED								
+TCGA-EE-A2GR	1301		STATUS	DECEASED								
+TCGA-EE-A2GS	2470		STATUS	DECEASED								
+TCGA-EE-A2ML	6590		STATUS	DECEASED								
+TCGA-EE-A3AD	875		STATUS	DECEASED								
+TCGA-EE-A3AG	1265		STATUS	DECEASED								
+TCGA-EE-A3JI	4648		STATUS	DECEASED								
+TCGA-EE-A29B	2588		STATUS	DECEASED								
+TCGA-EE-A29C	2402		STATUS	DECEASED								
+TCGA-EE-A29Q	2030		STATUS	DECEASED								
+TCGA-EE-A29S	1864		STATUS	DECEASED								
+TCGA-ER-A2NB	857		STATUS	DECEASED								
+TCGA-ER-A2NF	877		STATUS	DECEASED								
+TCGA-ER-A2NG	1490		STATUS	DECEASED								
+TCGA-ER-A3ET	2829		STATUS	DECEASED								
+TCGA-ER-A3EV	1429		STATUS	DECEASED								
+TCGA-ER-A19J	196		STATUS	DECEASED								
+TCGA-ER-A19N	1341		STATUS	DECEASED								
+TCGA-ER-A19T	270		STATUS	DECEASED								
+TCGA-ER-A42K	394		STATUS	DECEASED								
+TCGA-FR-A2OS	368		STATUS	DECEASED								
+TCGA-FR-A8YD	1103		STATUS	DECEASED								
+TCGA-FR-A726	305		STATUS	DECEASED								
+TCGA-FS-A1ZE	1413		STATUS	DECEASED								
+TCGA-FS-A4FC	1655		STATUS	DECEASED								
+TCGA-FS-A4FD	2454		STATUS	DECEASED								
+TCGA-FW-A3TU	1691		STATUS	DECEASED								
+TCGA-GN-A4U7	317		STATUS	DECEASED								
+TCGA-GN-A4U9	673		STATUS	DECEASED								
+TCGA-GN-A26D	1460		STATUS	DECEASED								
+TCGA-HR-A2OH	2004		STATUS	DECEASED								
+TCGA-OD-A75X	9061		STATUS	DECEASED								
+TCGA-WE-A8K5	1860		STATUS	DECEASED								
+TCGA-WE-A8ZY	1506		STATUS	DECEASED								
+TCGA-YG-AA3O	1154		STATUS	DECEASED								
+TCGA-3N-A9WB	426		STATUS	Submitted Specimen Dx								
+TCGA-3N-A9WC	1644		STATUS	Submitted Specimen Dx								
+TCGA-3N-A9WD	183		STATUS	Submitted Specimen Dx								
+TCGA-BF-A1PU	0		STATUS	Submitted Specimen Dx								
+TCGA-BF-A1PV	0		STATUS	Submitted Specimen Dx								
+TCGA-BF-A1PX	0		STATUS	Submitted Specimen Dx								
+TCGA-BF-A1PZ	0		STATUS	Submitted Specimen Dx								
+TCGA-BF-A1Q0	0		STATUS	Submitted Specimen Dx								
+TCGA-BF-A3DJ	0		STATUS	Submitted Specimen Dx								
+TCGA-BF-A3DL	0		STATUS	Submitted Specimen Dx								
+TCGA-BF-A3DM	0		STATUS	Submitted Specimen Dx								
+TCGA-BF-A3DN	0		STATUS	Submitted Specimen Dx								
+TCGA-BF-A5EO	0		STATUS	Submitted Specimen Dx								
+TCGA-BF-A5EP	0		STATUS	Submitted Specimen Dx								
+TCGA-BF-A5EQ	0		STATUS	Submitted Specimen Dx								
+TCGA-BF-A5ER	0		STATUS	Submitted Specimen Dx								
+TCGA-BF-A5ES	0		STATUS	Submitted Specimen Dx								
+TCGA-BF-AAP0	0		STATUS	Submitted Specimen Dx								
+TCGA-D3-A1Q1	3		STATUS	Submitted Specimen Dx								
+TCGA-D3-A1Q3	248		STATUS	Submitted Specimen Dx								
+TCGA-D3-A1Q4	29		STATUS	Submitted Specimen Dx								
+TCGA-D3-A1Q5	2438		STATUS	Submitted Specimen Dx								
+TCGA-D3-A1Q6	50		STATUS	Submitted Specimen Dx								
+TCGA-D3-A1Q7	683		STATUS	Submitted Specimen Dx								
+TCGA-D3-A1Q8	0		STATUS	Submitted Specimen Dx								
+TCGA-D3-A1Q9	275		STATUS	Submitted Specimen Dx								
+TCGA-D3-A1QA	1371		STATUS	Submitted Specimen Dx								
+TCGA-D3-A1QB	441		STATUS	Submitted Specimen Dx								
+TCGA-D3-A2J6	1008		STATUS	Submitted Specimen Dx								
+TCGA-D3-A2J7	541		STATUS	Submitted Specimen Dx								
+TCGA-D3-A2J8	1737		STATUS	Submitted Specimen Dx								
+TCGA-D3-A2J9	80		STATUS	Submitted Specimen Dx								
+TCGA-D3-A2JA	822		STATUS	Submitted Specimen Dx								
+TCGA-D3-A2JB	3035		STATUS	Submitted Specimen Dx								
+TCGA-D3-A2JC	0		STATUS	Submitted Specimen Dx								
+TCGA-D3-A2JD	14		STATUS	Submitted Specimen Dx								
+TCGA-D3-A2JE	140		STATUS	Submitted Specimen Dx								
+TCGA-D3-A2JF	544		STATUS	Submitted Specimen Dx								
+TCGA-D3-A2JG	3225		STATUS	Submitted Specimen Dx								
+TCGA-D3-A2JH	180		STATUS	Submitted Specimen Dx								
+TCGA-D3-A2JK	176		STATUS	Submitted Specimen Dx								
+TCGA-D3-A2JL	2408		STATUS	Submitted Specimen Dx								
+TCGA-D3-A2JN	0		STATUS	Submitted Specimen Dx								
+TCGA-D3-A2JO	50		STATUS	Submitted Specimen Dx								
+TCGA-D3-A2JP	0		STATUS	Submitted Specimen Dx								
+TCGA-D3-A3BZ	488		STATUS	Submitted Specimen Dx								
+TCGA-D3-A3C6	1302		STATUS	Submitted Specimen Dx								
+TCGA-D3-A3C7	0		STATUS	Submitted Specimen Dx								
+TCGA-D3-A3C8	0		STATUS	Submitted Specimen Dx								
+TCGA-D3-A3CB	2562		STATUS	Submitted Specimen Dx								
+TCGA-D3-A3CC	777		STATUS	Submitted Specimen Dx								
+TCGA-D3-A3CE	1427		STATUS	Submitted Specimen Dx								
+TCGA-D3-A3CF	16		STATUS	Submitted Specimen Dx								
+TCGA-D3-A3ML	230		STATUS	Submitted Specimen Dx								
+TCGA-D3-A3MO	0		STATUS	Submitted Specimen Dx								
+TCGA-D3-A3MR	0		STATUS	Submitted Specimen Dx								
+TCGA-D3-A3MU	407		STATUS	Submitted Specimen Dx								
+TCGA-D3-A3MV	489		STATUS	Submitted Specimen Dx								
+TCGA-D3-A51E	2483		STATUS	Submitted Specimen Dx								
+TCGA-D3-A51F	30		STATUS	Submitted Specimen Dx								
+TCGA-D3-A51H	762		STATUS	Submitted Specimen Dx								
+TCGA-D3-A51J	2762		STATUS	Submitted Specimen Dx								
+TCGA-D3-A51K	20		STATUS	Submitted Specimen Dx								
+TCGA-D3-A51N	36		STATUS	Submitted Specimen Dx								
+TCGA-D3-A51R	949		STATUS	Submitted Specimen Dx								
+TCGA-D3-A51T	34		STATUS	Submitted Specimen Dx								
+TCGA-D3-A5GL	473		STATUS	Submitted Specimen Dx								
+TCGA-D3-A5GN	2547		STATUS	Submitted Specimen Dx								
+TCGA-D3-A5GO	2739		STATUS	Submitted Specimen Dx								
+TCGA-D3-A5GR	5008		STATUS	Submitted Specimen Dx								
+TCGA-D3-A5GS	14		STATUS	Submitted Specimen Dx								
+TCGA-D3-A5GT	25		STATUS	Submitted Specimen Dx								
+TCGA-D3-A5GU	3105		STATUS	Submitted Specimen Dx								
+TCGA-D3-A8GB	34		STATUS	Submitted Specimen Dx								
+TCGA-D3-A8GC	1750		STATUS	Submitted Specimen Dx								
+TCGA-D3-A8GD	42		STATUS	Submitted Specimen Dx								
+TCGA-D3-A8GE	0		STATUS	Submitted Specimen Dx								
+TCGA-D3-A8GI	1653		STATUS	Submitted Specimen Dx								
+TCGA-D3-A8GJ	2632		STATUS	Submitted Specimen Dx								
+TCGA-D3-A8GK	1868		STATUS	Submitted Specimen Dx								
+TCGA-D3-A8GL	1527		STATUS	Submitted Specimen Dx								
+TCGA-D3-A8GM	596		STATUS	Submitted Specimen Dx								
+TCGA-D3-A8GN	1111		STATUS	Submitted Specimen Dx								
+TCGA-D3-A8GP	1526		STATUS	Submitted Specimen Dx								
+TCGA-D3-A8GQ	536		STATUS	Submitted Specimen Dx								
+TCGA-D3-A8GR	3774		STATUS	Submitted Specimen Dx								
+TCGA-D3-A8GS	2832		STATUS	Submitted Specimen Dx								
+TCGA-D3-A8GV	4482		STATUS	Submitted Specimen Dx								
+TCGA-D9-A3Z1	223		STATUS	Submitted Specimen Dx								
+TCGA-D9-A3Z3	11		STATUS	Submitted Specimen Dx								
+TCGA-D9-A3Z4	0		STATUS	Submitted Specimen Dx								
+TCGA-D9-A4Z2	7		STATUS	Submitted Specimen Dx								
+TCGA-D9-A4Z3	0		STATUS	Submitted Specimen Dx								
+TCGA-D9-A4Z5	0		STATUS	Submitted Specimen Dx								
+TCGA-D9-A4Z6	164		STATUS	Submitted Specimen Dx								
+TCGA-D9-A6E9	0		STATUS	Submitted Specimen Dx								
+TCGA-D9-A6EA	422		STATUS	Submitted Specimen Dx								
+TCGA-D9-A6EC	1613		STATUS	Submitted Specimen Dx								
+TCGA-D9-A6EG	254		STATUS	Submitted Specimen Dx								
+TCGA-DA-A1HV	3		STATUS	Submitted Specimen Dx								
+TCGA-DA-A1HW	7		STATUS	Submitted Specimen Dx								
+TCGA-DA-A1HY	2010		STATUS	Submitted Specimen Dx								
+TCGA-DA-A1I0	189		STATUS	Submitted Specimen Dx								
+TCGA-DA-A1I1	4734		STATUS	Submitted Specimen Dx								
+TCGA-DA-A1I2	4679		STATUS	Submitted Specimen Dx								
+TCGA-DA-A1I4	789		STATUS	Submitted Specimen Dx								
+TCGA-DA-A1I5	1911		STATUS	Submitted Specimen Dx								
+TCGA-DA-A1I7	745		STATUS	Submitted Specimen Dx								
+TCGA-DA-A1I8	875		STATUS	Submitted Specimen Dx								
+TCGA-DA-A1IA	1855		STATUS	Submitted Specimen Dx								
+TCGA-DA-A1IB	33		STATUS	Submitted Specimen Dx								
+TCGA-DA-A1IC	1869		STATUS	Submitted Specimen Dx								
+TCGA-DA-A3F2	281		STATUS	Submitted Specimen Dx								
+TCGA-DA-A3F3	106		STATUS	Submitted Specimen Dx								
+TCGA-DA-A3F5	6019		STATUS	Submitted Specimen Dx								
+TCGA-DA-A3F8	26		STATUS	Submitted Specimen Dx								
+TCGA-DA-A95V	1054		STATUS	Submitted Specimen Dx								
+TCGA-DA-A95W	0		STATUS	Submitted Specimen Dx								
+TCGA-DA-A95X	1113		STATUS	Submitted Specimen Dx								
+TCGA-DA-A95Y	271		STATUS	Submitted Specimen Dx								
+TCGA-DA-A95Z	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A1NK	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A24C	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A24D	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A299	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A3HV	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A3XB	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A3XC	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A3XD	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A3XE	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A3XF	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A3Y6	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A3Y7	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A41A	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A41B	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A42Y	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A42Z	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A430	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A431	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A44N	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A44O	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A44P	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A44Q	22		STATUS	Submitted Specimen Dx								
+TCGA-EB-A44R	303		STATUS	Submitted Specimen Dx								
+TCGA-EB-A4IQ	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A4IS	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A4OY	-2		STATUS	Submitted Specimen Dx								
+TCGA-EB-A4OZ	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A4P0	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A4XL	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A551	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A553	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A57M	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A5FP	11		STATUS	Submitted Specimen Dx								
+TCGA-EB-A5KH	539		STATUS	Submitted Specimen Dx								
+TCGA-EB-A5SE	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A5SF	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A5SG	1372		STATUS	Submitted Specimen Dx								
+TCGA-EB-A5SH	1065		STATUS	Submitted Specimen Dx								
+TCGA-EB-A5UL	120		STATUS	Submitted Specimen Dx								
+TCGA-EB-A5UM	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A5UN	1180		STATUS	Submitted Specimen Dx								
+TCGA-EB-A5VU	8		STATUS	Submitted Specimen Dx								
+TCGA-EB-A5VV	198		STATUS	Submitted Specimen Dx								
+TCGA-EB-A6L9	365		STATUS	Submitted Specimen Dx								
+TCGA-EB-A6QY	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A6QZ	0		STATUS	Submitted Specimen Dx								
+TCGA-EB-A6R0	0		STATUS	Submitted Specimen Dx								
+TCGA-EE-A17X	555		STATUS	Submitted Specimen Dx								
+TCGA-EE-A17Y	507		STATUS	Submitted Specimen Dx								
+TCGA-EE-A17Z	71		STATUS	Submitted Specimen Dx								
+TCGA-EE-A180	2642		STATUS	Submitted Specimen Dx								
+TCGA-EE-A181	992		STATUS	Submitted Specimen Dx								
+TCGA-EE-A182	406		STATUS	Submitted Specimen Dx								
+TCGA-EE-A183	447		STATUS	Submitted Specimen Dx								
+TCGA-EE-A184	1917		STATUS	Submitted Specimen Dx								
+TCGA-EE-A185	20		STATUS	Submitted Specimen Dx								
+TCGA-EE-A20B	2238		STATUS	Submitted Specimen Dx								
+TCGA-EE-A20C	4469		STATUS	Submitted Specimen Dx								
+TCGA-EE-A20F	2303		STATUS	Submitted Specimen Dx								
+TCGA-EE-A20H	4838		STATUS	Submitted Specimen Dx								
+TCGA-EE-A20I	376		STATUS	Submitted Specimen Dx								
+TCGA-EE-A29A	1684		STATUS	Submitted Specimen Dx								
+TCGA-EE-A29B	2151		STATUS	Submitted Specimen Dx								
+TCGA-EE-A29C	300		STATUS	Submitted Specimen Dx								
+TCGA-EE-A29D	86		STATUS	Submitted Specimen Dx								
+TCGA-EE-A29E	30		STATUS	Submitted Specimen Dx								
+TCGA-EE-A29G	1932		STATUS	Submitted Specimen Dx								
+TCGA-EE-A29H	845		STATUS	Submitted Specimen Dx								
+TCGA-EE-A29L	46		STATUS	Submitted Specimen Dx								
+TCGA-EE-A29M	524		STATUS	Submitted Specimen Dx								
+TCGA-EE-A29N	277		STATUS	Submitted Specimen Dx								
+TCGA-EE-A29P	1350		STATUS	Submitted Specimen Dx								
+TCGA-EE-A29Q	890		STATUS	Submitted Specimen Dx								
+TCGA-EE-A29R	171		STATUS	Submitted Specimen Dx								
+TCGA-EE-A29S	1397		STATUS	Submitted Specimen Dx								
+TCGA-EE-A29T	10326		STATUS	Submitted Specimen Dx								
+TCGA-EE-A29V	713		STATUS	Submitted Specimen Dx								
+TCGA-EE-A29W	4954		STATUS	Submitted Specimen Dx								
+TCGA-EE-A29X	299		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2A0	1080		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2A1	1633		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2A2	16		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2A5	901		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2A6	1515		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2GB	248		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2GC	1008		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2GD	9021		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2GE	3073		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2GH	4892		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2GI	567		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2GJ	2126		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2GK	1178		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2GL	1342		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2GM	1435		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2GN	1738		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2GO	2163		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2GP	258		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2GR	400		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2GS	1295		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2GT	301		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2GU	1779		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2M5	390		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2M6	943		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2M7	795		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2M8	413		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2MC	426		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2MD	1148		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2ME	2245		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2MF	8091		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2MG	1793		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2MH	274		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2MI	5782		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2MJ	998		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2MK	1003		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2ML	2772		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2MM	3403		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2MN	683		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2MP	6742		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2MQ	658		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2MR	2248		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2MS	3325		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2MT	564		STATUS	Submitted Specimen Dx								
+TCGA-EE-A2MU	1451		STATUS	Submitted Specimen Dx								
+TCGA-EE-A3AA	0		STATUS	Submitted Specimen Dx								
+TCGA-EE-A3AB	0		STATUS	Submitted Specimen Dx								
+TCGA-EE-A3AC	0		STATUS	Submitted Specimen Dx								
+TCGA-EE-A3AD	0		STATUS	Submitted Specimen Dx								
+TCGA-EE-A3AE	741		STATUS	Submitted Specimen Dx								
+TCGA-EE-A3AF	0		STATUS	Submitted Specimen Dx								
+TCGA-EE-A3AG	229		STATUS	Submitted Specimen Dx								
+TCGA-EE-A3AH	3835		STATUS	Submitted Specimen Dx								
+TCGA-EE-A3J3	5139		STATUS	Submitted Specimen Dx								
+TCGA-EE-A3J4	3172		STATUS	Submitted Specimen Dx								
+TCGA-EE-A3J5	467		STATUS	Submitted Specimen Dx								
+TCGA-EE-A3J7	1292		STATUS	Submitted Specimen Dx								
+TCGA-EE-A3J8	553		STATUS	Submitted Specimen Dx								
+TCGA-EE-A3JA	942		STATUS	Submitted Specimen Dx								
+TCGA-EE-A3JB	6109		STATUS	Submitted Specimen Dx								
+TCGA-EE-A3JD	0		STATUS	Submitted Specimen Dx								
+TCGA-EE-A3JE	1002		STATUS	Submitted Specimen Dx								
+TCGA-EE-A3JH	2672		STATUS	Submitted Specimen Dx								
+TCGA-EE-A3JI	3482		STATUS	Submitted Specimen Dx								
+TCGA-ER-A193	0		STATUS	Submitted Specimen Dx								
+TCGA-ER-A194	78		STATUS	Submitted Specimen Dx								
+TCGA-ER-A195	512		STATUS	Submitted Specimen Dx								
+TCGA-ER-A196	0		STATUS	Submitted Specimen Dx								
+TCGA-ER-A197	30		STATUS	Submitted Specimen Dx								
+TCGA-ER-A198	376		STATUS	Submitted Specimen Dx								
+TCGA-ER-A199	105		STATUS	Submitted Specimen Dx								
+TCGA-ER-A19A	41		STATUS	Submitted Specimen Dx								
+TCGA-ER-A19B	2227		STATUS	Submitted Specimen Dx								
+TCGA-ER-A19C	1372		STATUS	Submitted Specimen Dx								
+TCGA-ER-A19D	276		STATUS	Submitted Specimen Dx								
+TCGA-ER-A19E	34		STATUS	Submitted Specimen Dx								
+TCGA-ER-A19F	464		STATUS	Submitted Specimen Dx								
+TCGA-ER-A19G	4708		STATUS	Submitted Specimen Dx								
+TCGA-ER-A19H	3573		STATUS	Submitted Specimen Dx								
+TCGA-ER-A19J	68		STATUS	Submitted Specimen Dx								
+TCGA-ER-A19K	30		STATUS	Submitted Specimen Dx								
+TCGA-ER-A19L	3591		STATUS	Submitted Specimen Dx								
+TCGA-ER-A19M	987		STATUS	Submitted Specimen Dx								
+TCGA-ER-A19N	37		STATUS	Submitted Specimen Dx								
+TCGA-ER-A19O	48		STATUS	Submitted Specimen Dx								
+TCGA-ER-A19P	3875		STATUS	Submitted Specimen Dx								
+TCGA-ER-A19Q	1257		STATUS	Submitted Specimen Dx								
+TCGA-ER-A19S	36		STATUS	Submitted Specimen Dx								
+TCGA-ER-A19T	70		STATUS	Submitted Specimen Dx								
+TCGA-ER-A19W	3968		STATUS	Submitted Specimen Dx								
+TCGA-ER-A1A1	47		STATUS	Submitted Specimen Dx								
+TCGA-ER-A2NB	124		STATUS	Submitted Specimen Dx								
+TCGA-ER-A2NC	974		STATUS	Submitted Specimen Dx								
+TCGA-ER-A2ND	653		STATUS	Submitted Specimen Dx								
+TCGA-ER-A2NE	567		STATUS	Submitted Specimen Dx								
+TCGA-ER-A2NF	100		STATUS	Submitted Specimen Dx								
+TCGA-ER-A2NG	567		STATUS	Submitted Specimen Dx								
+TCGA-ER-A2NH	618		STATUS	Submitted Specimen Dx								
+TCGA-ER-A3ES	7239		STATUS	Submitted Specimen Dx								
+TCGA-ER-A3ET	2243		STATUS	Submitted Specimen Dx								
+TCGA-ER-A3EV	745		STATUS	Submitted Specimen Dx								
+TCGA-ER-A3PL	958		STATUS	Submitted Specimen Dx								
+TCGA-ER-A42H	114		STATUS	Submitted Specimen Dx								
+TCGA-ER-A42K	35		STATUS	Submitted Specimen Dx								
+TCGA-ER-A42L	3389		STATUS	Submitted Specimen Dx								
+TCGA-FR-A2OS	0		STATUS	Submitted Specimen Dx								
+TCGA-FR-A3R1	0		STATUS	Submitted Specimen Dx								
+TCGA-FR-A3YN	2268		STATUS	Submitted Specimen Dx								
+TCGA-FR-A44A	2691		STATUS	Submitted Specimen Dx								
+TCGA-FR-A69P	0		STATUS	Submitted Specimen Dx								
+TCGA-FR-A726	31		STATUS	Submitted Specimen Dx								
+TCGA-FR-A728	16		STATUS	Submitted Specimen Dx								
+TCGA-FR-A729	6186		STATUS	Submitted Specimen Dx								
+TCGA-FR-A7U8	352		STATUS	Submitted Specimen Dx								
+TCGA-FR-A7U9	50		STATUS	Submitted Specimen Dx								
+TCGA-FR-A7UA	760		STATUS	Submitted Specimen Dx								
+TCGA-FR-A8YC	992		STATUS	Submitted Specimen Dx								
+TCGA-FR-A8YD	753		STATUS	Submitted Specimen Dx								
+TCGA-FR-A8YE	2771		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1YW	4637		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1YX	1373		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1YY	6618		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1Z0	5440		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1Z3	203		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1Z4	382		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1Z7	14		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1ZA	621		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1ZB	1383		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1ZC	10250		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1ZD	1378		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1ZE	631		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1ZF	133		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1ZG	77		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1ZH	57		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1ZJ	1048		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1ZK	336		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1ZM	1639		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1ZN	0		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1ZP	689		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1ZQ	3799		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1ZR	79		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1ZS	3031		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1ZT	381		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1ZU	544		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1ZW	672		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1ZY	799		STATUS	Submitted Specimen Dx								
+TCGA-FS-A1ZZ	663		STATUS	Submitted Specimen Dx								
+TCGA-FS-A4F0	729		STATUS	Submitted Specimen Dx								
+TCGA-FS-A4F2	1427		STATUS	Submitted Specimen Dx								
+TCGA-FS-A4F4	1804		STATUS	Submitted Specimen Dx								
+TCGA-FS-A4F5	0		STATUS	Submitted Specimen Dx								
+TCGA-FS-A4F8	4886		STATUS	Submitted Specimen Dx								
+TCGA-FS-A4F9	50		STATUS	Submitted Specimen Dx								
+TCGA-FS-A4FB	631		STATUS	Submitted Specimen Dx								
+TCGA-FS-A4FC	1309		STATUS	Submitted Specimen Dx								
+TCGA-FS-A4FD	2300		STATUS	Submitted Specimen Dx								
+TCGA-FW-A3I3	0		STATUS	Submitted Specimen Dx								
+TCGA-FW-A3R5	667		STATUS	Submitted Specimen Dx								
+TCGA-FW-A3TU	1442		STATUS	Submitted Specimen Dx								
+TCGA-FW-A3TV	0		STATUS	Submitted Specimen Dx								
+TCGA-FW-A5DX	11		STATUS	Submitted Specimen Dx								
+TCGA-FW-A5DY	60		STATUS	Submitted Specimen Dx								
+TCGA-GF-A3OT	0		STATUS	Submitted Specimen Dx								
+TCGA-GF-A4EO	0		STATUS	Submitted Specimen Dx								
+TCGA-GF-A6C8	36		STATUS	Submitted Specimen Dx								
+TCGA-GF-A6C9	4		STATUS	Submitted Specimen Dx								
+TCGA-GF-A769	0		STATUS	Submitted Specimen Dx								
+TCGA-GN-A262	2908		STATUS	Submitted Specimen Dx								
+TCGA-GN-A263	0		STATUS	Submitted Specimen Dx								
+TCGA-GN-A264	2634		STATUS	Submitted Specimen Dx								
+TCGA-GN-A265	0		STATUS	Submitted Specimen Dx								
+TCGA-GN-A266	0		STATUS	Submitted Specimen Dx								
+TCGA-GN-A267	1466		STATUS	Submitted Specimen Dx								
+TCGA-GN-A268	1441		STATUS	Submitted Specimen Dx								
+TCGA-GN-A269	0		STATUS	Submitted Specimen Dx								
+TCGA-GN-A26A	618		STATUS	Submitted Specimen Dx								
+TCGA-GN-A26C	91		STATUS	Submitted Specimen Dx								
+TCGA-GN-A26D	757		STATUS	Submitted Specimen Dx								
+TCGA-GN-A4U3	2230		STATUS	Submitted Specimen Dx								
+TCGA-GN-A4U4	42		STATUS	Submitted Specimen Dx								
+TCGA-GN-A4U5	0		STATUS	Submitted Specimen Dx								
+TCGA-GN-A4U7	148		STATUS	Submitted Specimen Dx								
+TCGA-GN-A4U8	1050		STATUS	Submitted Specimen Dx								
+TCGA-GN-A4U9	60		STATUS	Submitted Specimen Dx								
+TCGA-GN-A8LK	1083		STATUS	Submitted Specimen Dx								
+TCGA-GN-A8LL	209		STATUS	Submitted Specimen Dx								
+TCGA-GN-A9SD	1366		STATUS	Submitted Specimen Dx								
+TCGA-HR-A2OG	0		STATUS	Submitted Specimen Dx								
+TCGA-HR-A2OH	1523		STATUS	Submitted Specimen Dx								
+TCGA-IH-A3EA	141		STATUS	Submitted Specimen Dx								
+TCGA-LH-A9QB	10847		STATUS	Submitted Specimen Dx								
+TCGA-OD-A75X	8630		STATUS	Submitted Specimen Dx								
+TCGA-QB-A6FS	27		STATUS	Submitted Specimen Dx								
+TCGA-QB-AA9O	0		STATUS	Submitted Specimen Dx								
+TCGA-RP-A690	0		STATUS	Submitted Specimen Dx								
+TCGA-RP-A693	0		STATUS	Submitted Specimen Dx								
+TCGA-RP-A694	0		STATUS	Submitted Specimen Dx								
+TCGA-W3-A824	1461		STATUS	Submitted Specimen Dx								
+TCGA-W3-A825	1644		STATUS	Submitted Specimen Dx								
+TCGA-W3-A828	1857		STATUS	Submitted Specimen Dx								
+TCGA-W3-AA1O	31		STATUS	Submitted Specimen Dx								
+TCGA-W3-AA1Q	882		STATUS	Submitted Specimen Dx								
+TCGA-W3-AA1R	761		STATUS	Submitted Specimen Dx								
+TCGA-W3-AA1V	946		STATUS	Submitted Specimen Dx								
+TCGA-W3-AA1W	1034		STATUS	Submitted Specimen Dx								
+TCGA-W3-AA21	1035		STATUS	Submitted Specimen Dx								
+TCGA-WE-A8JZ	371		STATUS	Submitted Specimen Dx								
+TCGA-WE-A8K1	1006		STATUS	Submitted Specimen Dx								
+TCGA-WE-A8K5	1457		STATUS	Submitted Specimen Dx								
+TCGA-WE-A8K6	46		STATUS	Submitted Specimen Dx								
+TCGA-WE-A8ZM	2178		STATUS	Submitted Specimen Dx								
+TCGA-WE-A8ZN	1092		STATUS	Submitted Specimen Dx								
+TCGA-WE-A8ZO	1408		STATUS	Submitted Specimen Dx								
+TCGA-WE-A8ZQ	1479		STATUS	Submitted Specimen Dx								
+TCGA-WE-A8ZT	10		STATUS	Submitted Specimen Dx								
+TCGA-WE-A8ZX	26		STATUS	Submitted Specimen Dx								
+TCGA-WE-A8ZY	1167		STATUS	Submitted Specimen Dx								
+TCGA-WE-AA9Y	34		STATUS	Submitted Specimen Dx								
+TCGA-WE-AAA0	311		STATUS	Submitted Specimen Dx								
+TCGA-WE-AAA3	256		STATUS	Submitted Specimen Dx								
+TCGA-WE-AAA4	94		STATUS	Submitted Specimen Dx								
+TCGA-XV-AB01	0		STATUS	Submitted Specimen Dx								
+TCGA-YD-A89C	202		STATUS	Submitted Specimen Dx								
+TCGA-YD-A9TA	926		STATUS	Submitted Specimen Dx								
+TCGA-YG-AA3O	908		STATUS	Submitted Specimen Dx								
+TCGA-YG-AA3P	296		STATUS	Submitted Specimen Dx								
+TCGA-Z2-A8RT	469		STATUS	Submitted Specimen Dx								
+TCGA-Z2-AA3S	2628		STATUS	Submitted Specimen Dx								
+TCGA-Z2-AA3V	175		STATUS	Submitted Specimen Dx								
+TCGA-3N-A9WB	0		STATUS	Initial Diagnosis	stage Ia	7th	m0	nx	t1a			
+TCGA-3N-A9WC	0		STATUS	Initial Diagnosis	stage IIa	6th	m0	nx	t2b			
+TCGA-3N-A9WD	0		STATUS	Initial Diagnosis	stage IIIa	7th	m0	n1a	t2a			
+TCGA-BF-A1PU	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-BF-A1PV	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-BF-A1PX	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n2a	t4b			
+TCGA-BF-A1PZ	0		STATUS	Initial Diagnosis	stage IIb	7th	m0	n0	t4a			
+TCGA-BF-A1Q0	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-BF-A3DJ	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n1	t4b			
+TCGA-BF-A3DL	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n2	t3b			
+TCGA-BF-A3DM	0		STATUS	Initial Diagnosis	stage IIa	7th	m0	n0	t2b			
+TCGA-BF-A3DN	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t3b			
+TCGA-BF-A5EO	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-BF-A5EP	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t4b			
+TCGA-BF-A5EQ	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-BF-A5ER	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-BF-A5ES	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-BF-AAP0	0		STATUS	Initial Diagnosis	stage IV	7th	m1	nx	t4			
+TCGA-D3-A1Q1	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t1b			
+TCGA-D3-A1Q3	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-D3-A1Q4	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n1b	t2b			
+TCGA-D3-A1Q5	0		STATUS	Initial Diagnosis	I/II nos	7th	m0	n0	tx			
+TCGA-D3-A1Q6	0		STATUS	Initial Diagnosis	stage III	7th	m0	n1b	t4			
+TCGA-D3-A1Q7	0		STATUS	Initial Diagnosis	stage Ib	7th	m0	n0	t1b			
+TCGA-D3-A1Q8	0		STATUS	Initial Diagnosis	stage IV	7th	m1b	n3	t0			
+TCGA-D3-A1Q9	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n2a	t4b			
+TCGA-D3-A1QA	0		STATUS	Initial Diagnosis	stage Ib	7th	m0	n0	t2a			
+TCGA-D3-A1QB	0		STATUS	Initial Diagnosis	stage III	7th	m0	n2c	t0			
+TCGA-D3-A2J6	0		STATUS	Initial Diagnosis	stage IIb	7th	m0	n0	t3b			
+TCGA-D3-A2J7	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n1b	t3b			
+TCGA-D3-A2J8	0		STATUS	Initial Diagnosis	stage Ib	7th	m0	n0	t2a			
+TCGA-D3-A2J9	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t4b			
+TCGA-D3-A2JA	0		STATUS	Initial Diagnosis	stage IIIa	7th	m0	n1a	t2a			
+TCGA-D3-A2JB	0		STATUS	Initial Diagnosis	stage 0	7th	m0	n0	tis			
+TCGA-D3-A2JC	0		STATUS	Initial Diagnosis	stage III	7th	m0	n2b	t0			
+TCGA-D3-A2JD	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n1b	t4b			
+TCGA-D3-A2JE	0		STATUS	Initial Diagnosis	stage IIIc	6th	m0	n3	tx			
+TCGA-D3-A2JF	0		STATUS	Initial Diagnosis	stage Ia	7th	m0	n0	t1a			
+TCGA-D3-A2JG	0		STATUS	Initial Diagnosis	stage IIIa	7th	m0	n1a	t3a			
+TCGA-D3-A2JH	0		STATUS	Initial Diagnosis	stage Ib	7th	m0	n0	t1b			
+TCGA-D3-A2JK	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n2b	t4b			
+TCGA-D3-A2JL	0		STATUS	Initial Diagnosis	I/II nos	7th	m0	n0	tx			
+TCGA-D3-A2JN	0		STATUS	Initial Diagnosis	stage III	7th	m0	n1b	t0			
+TCGA-D3-A2JO	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	tx			
+TCGA-D3-A2JP	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t0			
+TCGA-D3-A3BZ	0		STATUS	Initial Diagnosis	stage IIb	7th	m0	n0	t4a			
+TCGA-D3-A3C6	0		STATUS	Initial Diagnosis	stage Ib	7th	m0	n0	t2a			
+TCGA-D3-A3C7	0		STATUS	Initial Diagnosis	stage III	7th	m0	n1b	t0			
+TCGA-D3-A3C8	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	tx			
+TCGA-D3-A3CB	0		STATUS	Initial Diagnosis	I/II nos	7th	m0	n0	t2			
+TCGA-D3-A3CC	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-D3-A3CE	0		STATUS	Initial Diagnosis	stage III	7th	m0	n1b	t0			
+TCGA-D3-A3CF	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t4b			
+TCGA-D3-A3ML	0		STATUS	Initial Diagnosis	stage IIIa	7th	m0	n2a	t3a			
+TCGA-D3-A3MO	0		STATUS	Initial Diagnosis	stage III	7th	m0	n2c	tx			
+TCGA-D3-A3MR	0		STATUS	Initial Diagnosis	stage III	7th	m0	n1b	t0			
+TCGA-D3-A3MU	0		STATUS	Initial Diagnosis	stage IIIa	7th	m0	n2a	t3a			
+TCGA-D3-A3MV	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n2a	t2b			
+TCGA-D3-A51E	0		STATUS	Initial Diagnosis	I/II nos	7th	m0	n0	t2			
+TCGA-D3-A51F	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n1b	t4b			
+TCGA-D3-A51H	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t1b			
+TCGA-D3-A51J	0		STATUS	Initial Diagnosis	stage III	7th	m0	n1b	t0			
+TCGA-D3-A51K	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n2b	tis			
+TCGA-D3-A51N	0		STATUS	Initial Diagnosis	stage IV	7th	m1c	n3	t0			
+TCGA-D3-A51R	0		STATUS	Initial Diagnosis	stage IIa	7th	m0	n0	t3a			
+TCGA-D3-A51T	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n1b	t4b			
+TCGA-D3-A5GL	0		STATUS	Initial Diagnosis	stage Ib	7th	m0	n0	t2a			
+TCGA-D3-A5GN	0		STATUS	Initial Diagnosis	stage I	7th	m0	n0	t1			
+TCGA-D3-A5GO	0		STATUS	Initial Diagnosis	stage II	7th	m0	n0	t4			
+TCGA-D3-A5GR	0		STATUS	Initial Diagnosis	stage III	7th	m0	n1	t1b			
+TCGA-D3-A5GS	0		STATUS	Initial Diagnosis	stage IV	7th	m1c	n1b	t1b			
+TCGA-D3-A5GT	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t2b			
+TCGA-D3-A5GU	0		STATUS	Initial Diagnosis	stage Ib	7th	m0	n0	t1b			
+TCGA-D3-A8GB	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n1b	t3a			
+TCGA-D3-A8GC	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	tx			
+TCGA-D3-A8GD	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t4b			
+TCGA-D3-A8GE	0		STATUS	Initial Diagnosis	stage IV	7th	m1b	n0	tx			
+TCGA-D3-A8GI	0		STATUS	Initial Diagnosis	stage Ia	7th	m0	n0	t1a			
+TCGA-D3-A8GJ	0		STATUS	Initial Diagnosis	stage II	7th	m0	n0	t3			
+TCGA-D3-A8GK	0		STATUS	Initial Diagnosis	stage IIa	7th	m0	n0	t3a			
+TCGA-D3-A8GL	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n1b	t2a			
+TCGA-D3-A8GM	0		STATUS	Initial Diagnosis	stage IIb	7th	m0	n0	t3b			
+TCGA-D3-A8GN	0		STATUS	Initial Diagnosis	I/II nos	7th	m0	n0	tx			
+TCGA-D3-A8GP	0		STATUS	Initial Diagnosis	stage III	7th	m0	n2c	t2			
+TCGA-D3-A8GQ	0		STATUS	Initial Diagnosis	stage II	7th	m0	n0	t3			
+TCGA-D3-A8GR	0		STATUS	Initial Diagnosis	stage 0	7th	m0	n0	tis			
+TCGA-D3-A8GS	0		STATUS	Initial Diagnosis	stage I	7th	m0	n0	t1			
+TCGA-D3-A8GV	0		STATUS	Initial Diagnosis	I/II nos	7th	m0	n0	tx			
+TCGA-D9-A148	0		STATUS	Initial Diagnosis		7th	m1b	n3	tx			
+TCGA-D9-A149	0		STATUS	Initial Diagnosis		7th	m0	n1b	tx			
+TCGA-D9-A1JW	0		STATUS	Initial Diagnosis		7th	m0	n2a	t1a			
+TCGA-D9-A1JX	0		STATUS	Initial Diagnosis		7th	m0	nx	tx			
+TCGA-D9-A1X3	0		STATUS	Initial Diagnosis		7th		n2b	t4b			
+TCGA-D9-A3Z1	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t2a			
+TCGA-D9-A3Z3	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n1b	t3a			
+TCGA-D9-A3Z4	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t4b			
+TCGA-D9-A4Z2	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t4b			
+TCGA-D9-A4Z3	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n1b	t4b			
+TCGA-D9-A4Z5	0		STATUS	Initial Diagnosis	stage IIb	7th	m0	n0	t4a			
+TCGA-D9-A4Z6	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n1b	t3b			
+TCGA-D9-A6E9	0		STATUS	Initial Diagnosis	stage IIIa	7th	m0	n1	t3a			
+TCGA-D9-A6EA	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t4a			
+TCGA-D9-A6EC	0		STATUS	Initial Diagnosis	stage IIIa	6th	m0	n1	t3a			
+TCGA-D9-A6EG	0		STATUS	Initial Diagnosis	stage IIIa	7th	m0	n1	t4a			
+TCGA-DA-A1HV	0		STATUS	Initial Diagnosis	stage IIIb	6th	m0	n2b	t0			
+TCGA-DA-A1HW	0		STATUS	Initial Diagnosis	stage IIIb	6th	m0	n1b	t1a			
+TCGA-DA-A1HY	0		STATUS	Initial Diagnosis	stage III	5th	m0	n1	t2b			
+TCGA-DA-A1I0	0		STATUS	Initial Diagnosis	stage IV	6th	m1a	n3	t4b			
+TCGA-DA-A1I1	0		STATUS	Initial Diagnosis	stage III	4th	m0	n2a	t0			
+TCGA-DA-A1I2	0		STATUS	Initial Diagnosis	stage III	4th	m0	n2b	t4b			
+TCGA-DA-A1I4	0		STATUS	Initial Diagnosis	stage IIIc	6th	m0	n2b	t3b			
+TCGA-DA-A1I5	0		STATUS	Initial Diagnosis	stage IV	6th	m1c	n0	t1a			
+TCGA-DA-A1I7	0		STATUS	Initial Diagnosis	stage IIIb	6th	m0	n2b	t0			
+TCGA-DA-A1I8	0		STATUS	Initial Diagnosis	stage IIc	6th	m0	n0	t4b			
+TCGA-DA-A1IA	0		STATUS	Initial Diagnosis	stage IIIb	6th	m0	n1b	t2a			
+TCGA-DA-A1IB	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n2b	t2b			
+TCGA-DA-A1IC	0		STATUS	Initial Diagnosis	stage IIIb	6th	m0	n2c	t3a			
+TCGA-DA-A3F2	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n2b	t4a			
+TCGA-DA-A3F3	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n2b	t0			
+TCGA-DA-A3F5	0		STATUS	Initial Diagnosis	stage I	4th	m0	n0	t1a			
+TCGA-DA-A3F8	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n2b	t2a			
+TCGA-DA-A95V	0		STATUS	Initial Diagnosis	stage IIc	6th		n0	t4b			
+TCGA-DA-A95W	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n1b	tx			
+TCGA-DA-A95X	0		STATUS	Initial Diagnosis	stage Ib	6th	m0	n0	t2a			
+TCGA-DA-A95Y	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-DA-A95Z	0		STATUS	Initial Diagnosis	stage IV	7th	m1a	n0	tx			
+TCGA-EB-A1NK	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-EB-A24C	0		STATUS	Initial Diagnosis		7th	m0	nx	t4b			
+TCGA-EB-A24D	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n2b	t4a			
+TCGA-EB-A299	0		STATUS	Initial Diagnosis	stage IIa	7th	m0	n0	t2b			
+TCGA-EB-A3HV	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-EB-A3XB	0		STATUS	Initial Diagnosis	stage II	7th	m0	nx	t4			
+TCGA-EB-A3XC	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-EB-A3XD	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	nx	t4b			
+TCGA-EB-A3XE	0		STATUS	Initial Diagnosis	stage IIa	7th	m0	n0	t3a			
+TCGA-EB-A3XF	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-EB-A3Y6	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-EB-A3Y7	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n2c	t3a			
+TCGA-EB-A41A	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-EB-A41B	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-EB-A42Y	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-EB-A42Z	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n1b	t4b			
+TCGA-EB-A430	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-EB-A431	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-EB-A44N	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-EB-A44O	0		STATUS	Initial Diagnosis	stage IIb	7th	m0	n0	t4a			
+TCGA-EB-A44P	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-EB-A44Q	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	tx			
+TCGA-EB-A44R	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n2b	tx			
+TCGA-EB-A4IQ	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n1	t4b			
+TCGA-EB-A4IS	0		STATUS	Initial Diagnosis	stage IIb	7th	m0	nx	t3b			
+TCGA-EB-A4OY	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n1a	t4b			
+TCGA-EB-A4OZ	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t4a			
+TCGA-EB-A4P0	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-EB-A4XL	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	nx	t4b			
+TCGA-EB-A551	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n2b	t4b			
+TCGA-EB-A553	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-EB-A57M	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n1	t4b			
+TCGA-EB-A5FP	0		STATUS	Initial Diagnosis	stage IV	7th	m1b	nx	t4b			
+TCGA-EB-A5KH	0		STATUS	Initial Diagnosis	stage III	7th	m0	n1	t0			
+TCGA-EB-A5SE	0		STATUS	Initial Diagnosis	stage IIb	7th	m0	nx	t3b			
+TCGA-EB-A5SF	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	nx	t4b			
+TCGA-EB-A5SG	0		STATUS	Initial Diagnosis								
+TCGA-EB-A5SH	0		STATUS	Initial Diagnosis	stage III	6th	m0	n0	t4			
+TCGA-EB-A5UL	0		STATUS	Initial Diagnosis	stage III	7th	m0	n1	tx			
+TCGA-EB-A5UM	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-EB-A5UN	0		STATUS	Initial Diagnosis	stage IIc	6th	m0	nx	t4b			
+TCGA-EB-A5VU	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n1	t4b			
+TCGA-EB-A5VV	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n1	t3b			
+TCGA-EB-A6L9	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	tx			
+TCGA-EB-A6QY	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-EB-A6QZ	0		STATUS	Initial Diagnosis	stage IIa	7th	m0	n0	t3a			
+TCGA-EB-A6R0	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-EE-A17X	0		STATUS	Initial Diagnosis	stage Ia	6th	m0	n0	t1a			
+TCGA-EE-A17Y	0		STATUS	Initial Diagnosis	stage IIIb	6th	m0	n1a	t3b			
+TCGA-EE-A17Z	0		STATUS	Initial Diagnosis	stage IIb	6th	m0	n0	t4a			
+TCGA-EE-A180	0		STATUS	Initial Diagnosis	stage III	5th	m0	n0	t4a			
+TCGA-EE-A181	0		STATUS	Initial Diagnosis	stage II	6th	m0	n0	t3			
+TCGA-EE-A182	0		STATUS	Initial Diagnosis	stage IIIc	6th	m0	n1b	t4b			
+TCGA-EE-A183	0		STATUS	Initial Diagnosis	stage 0	6th	m0	n0	tis			
+TCGA-EE-A184	0		STATUS	Initial Diagnosis	stage Ib	6th	m0	n0	t2a			
+TCGA-EE-A185	0		STATUS	Initial Diagnosis	stage IIIc	6th	m0	n3	t4b			
+TCGA-EE-A20B	0		STATUS	Initial Diagnosis	stage II	5th	m0	n0	t3			
+TCGA-EE-A20C	0		STATUS	Initial Diagnosis	stage 0	4th	m0	n0	tis			
+TCGA-EE-A20F	0		STATUS	Initial Diagnosis	stage I	5th	m0	n0	t1			
+TCGA-EE-A20H	0		STATUS	Initial Diagnosis	stage I	4th	m0	n0	t2			
+TCGA-EE-A20I	0		STATUS	Initial Diagnosis	stage IV	6th	m1c	n0	tx			
+TCGA-EE-A29A	0		STATUS	Initial Diagnosis	stage IIIa	6th	m0	n1a	t3a			
+TCGA-EE-A29B	0		STATUS	Initial Diagnosis	stage IIb	6th	m0	n0	t3b			
+TCGA-EE-A29C	0		STATUS	Initial Diagnosis	stage Ib	6th	m0	n0	t2a			
+TCGA-EE-A29D	0		STATUS	Initial Diagnosis	stage IIIc	6th	m0	n1b	t3b			
+TCGA-EE-A29E	0		STATUS	Initial Diagnosis	stage IIIb	6th	m0	n1b	t3a			
+TCGA-EE-A29G	0		STATUS	Initial Diagnosis	stage IIIa	6th	m0	n2a	t4a			
+TCGA-EE-A29H	0		STATUS	Initial Diagnosis	stage Ia	6th	m0	n0	t1a			
+TCGA-EE-A29L	0		STATUS	Initial Diagnosis	stage IIIc	6th	m0	n3	t4b			
+TCGA-EE-A29M	0		STATUS	Initial Diagnosis	stage Ib	6th	m0	n0	t2a			
+TCGA-EE-A29N	0		STATUS	Initial Diagnosis	I/II nos	6th	m0	n0	tx			
+TCGA-EE-A29P	0		STATUS	Initial Diagnosis	stage IIc	6th	m0	n0	t4b			
+TCGA-EE-A29Q	0		STATUS	Initial Diagnosis	stage IIb	6th	m0	n0	t3b			
+TCGA-EE-A29R	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n1b	t3b			
+TCGA-EE-A29S	0		STATUS	Initial Diagnosis	stage IIa	6th	m0	n0	t3a			
+TCGA-EE-A29T	0		STATUS	Initial Diagnosis		1st	m0	nx	tx			
+TCGA-EE-A29V	0		STATUS	Initial Diagnosis	stage IIIc	6th	m0	n1b	t3b			
+TCGA-EE-A29W	0		STATUS	Initial Diagnosis	stage 0	4th	m0	n0	tis			
+TCGA-EE-A29X	0		STATUS	Initial Diagnosis	stage Ib	6th	m0	n0	t2a			
+TCGA-EE-A2A0	0		STATUS	Initial Diagnosis	stage IIa	6th	m0	n0	t3a			
+TCGA-EE-A2A1	0		STATUS	Initial Diagnosis	stage Ib	6th	m0	n0	t2a			
+TCGA-EE-A2A2	0		STATUS	Initial Diagnosis	stage IIIc	6th	m0	n1b	t4b			
+TCGA-EE-A2A5	0		STATUS	Initial Diagnosis	stage Ib	6th	m0	n0	t2a			
+TCGA-EE-A2A6	0		STATUS	Initial Diagnosis	stage Ia	6th	m0	n0	t1a			
+TCGA-EE-A2GB	0		STATUS	Initial Diagnosis	stage IIIb	6th	m0	n1a	t2b			
+TCGA-EE-A2GC	0		STATUS	Initial Diagnosis	stage IIb	6th	m0	n0	t3b			
+TCGA-EE-A2GD	0		STATUS	Initial Diagnosis	stage IIb	2nd	m0	n0	t4			
+TCGA-EE-A2GE	0		STATUS	Initial Diagnosis	stage I	5th	m0	n0	t2			
+TCGA-EE-A2GH	0		STATUS	Initial Diagnosis	stage I	4th	m0	n0	t2			
+TCGA-EE-A2GI	0		STATUS	Initial Diagnosis	stage Ia	6th	m0	n0	t1a			
+TCGA-EE-A2GJ	0		STATUS	Initial Diagnosis	stage Ia	6th	m0	n0	t1a			
+TCGA-EE-A2GK	0		STATUS	Initial Diagnosis	stage I	6th	m0	n0	t1			
+TCGA-EE-A2GL	0		STATUS	Initial Diagnosis	stage IIa	6th	m0	n0	t3a			
+TCGA-EE-A2GM	0		STATUS	Initial Diagnosis	stage IIc	6th	m0	n0	t4b			
+TCGA-EE-A2GN	0		STATUS	Initial Diagnosis	stage IIa	6th	m0	n0	t2b			
+TCGA-EE-A2GO	0		STATUS	Initial Diagnosis	stage II	5th	m0	n0	t3b			
+TCGA-EE-A2GP	0		STATUS	Initial Diagnosis	stage IIIb	6th	m0	n1a	t4b			
+TCGA-EE-A2GR	0		STATUS	Initial Diagnosis	stage II	6th	m0	n0	t4			
+TCGA-EE-A2GS	0		STATUS	Initial Diagnosis	stage Ib	6th	m0	n0	t2a			
+TCGA-EE-A2GT	0		STATUS	Initial Diagnosis	stage IIa	6th	m0	n0	t3a			
+TCGA-EE-A2GU	0		STATUS	Initial Diagnosis	stage Ia	6th	m0	n0	t1a			
+TCGA-EE-A2M5	0		STATUS	Initial Diagnosis	stage I	5th	m0	n0	t2			
+TCGA-EE-A2M6	0		STATUS	Initial Diagnosis	stage I	4th	m0	n0	t1			
+TCGA-EE-A2M7	0		STATUS	Initial Diagnosis	stage II	5th	m0	n0	t3a			
+TCGA-EE-A2M8	0		STATUS	Initial Diagnosis	stage III	5th	m0	n1	t3a			
+TCGA-EE-A2MC	0		STATUS	Initial Diagnosis	stage I	5th	m0	n0	t2			
+TCGA-EE-A2MD	0		STATUS	Initial Diagnosis	stage II	5th	m0	n0	t3a			
+TCGA-EE-A2ME	0		STATUS	Initial Diagnosis	stage I	4th	m0	n0	t2			
+TCGA-EE-A2MF	0		STATUS	Initial Diagnosis	stage I	1st	m0	n0	t2			
+TCGA-EE-A2MG	0		STATUS	Initial Diagnosis	stage I	4th	m0	n0	t2			
+TCGA-EE-A2MH	0		STATUS	Initial Diagnosis	stage III	5th	m0	n0	t4a			
+TCGA-EE-A2MI	0		STATUS	Initial Diagnosis	stage IIb	2nd	m0	n0	t4			
+TCGA-EE-A2MJ	0		STATUS	Initial Diagnosis	stage III	5th	m0	n0	t4b			
+TCGA-EE-A2MK	0		STATUS	Initial Diagnosis	stage III	5th	m0	n0	t4a			
+TCGA-EE-A2ML	0		STATUS	Initial Diagnosis	stage II	4th	m0	n0	t3a			
+TCGA-EE-A2MM	0		STATUS	Initial Diagnosis	stage I	4th	m0	n0	t2			
+TCGA-EE-A2MN	0		STATUS	Initial Diagnosis	stage I	5th	m0	n0	t2			
+TCGA-EE-A2MP	0		STATUS	Initial Diagnosis	stage I	3rd	m0	n0	t2			
+TCGA-EE-A2MQ	0		STATUS	Initial Diagnosis	stage IIIa	6th	m0	n2a	t3a			
+TCGA-EE-A2MR	0		STATUS	Initial Diagnosis	stage I	5th	m0	n0	t2			
+TCGA-EE-A2MS	0		STATUS	Initial Diagnosis	stage II	5th	m0	n0	t3a			
+TCGA-EE-A2MT	0		STATUS	Initial Diagnosis	stage Ib	6th	m0	n0	t2a			
+TCGA-EE-A2MU	0		STATUS	Initial Diagnosis	stage Ia	6th	m0	n0	t1a			
+TCGA-EE-A3AA	0		STATUS	Initial Diagnosis	stage III	5th	m0	n2a	t0			
+TCGA-EE-A3AB	0		STATUS	Initial Diagnosis	stage III	5th	m0	n2a	t0			
+TCGA-EE-A3AC	0		STATUS	Initial Diagnosis	stage III	6th	m0	n2b	t0			
+TCGA-EE-A3AD	0		STATUS	Initial Diagnosis	stage III	6th	m0	n1b	t0			
+TCGA-EE-A3AE	0		STATUS	Initial Diagnosis	stage Ia	6th	m0	n0	t1a			
+TCGA-EE-A3AF	0		STATUS	Initial Diagnosis	stage IIIc	6th	m0	n3	t0			
+TCGA-EE-A3AG	0		STATUS	Initial Diagnosis	stage III		m0	n2c	t0			
+TCGA-EE-A3AH	0		STATUS	Initial Diagnosis	stage II	5th	m0	n0	t3b			
+TCGA-EE-A3J3	0		STATUS	Initial Diagnosis	stage Ib	2nd	m0	n0	t2			
+TCGA-EE-A3J4	0		STATUS	Initial Diagnosis	stage II	3rd	m0	n0	t3a			
+TCGA-EE-A3J5	0		STATUS	Initial Diagnosis	stage III	5th	m0	n1	t4a			
+TCGA-EE-A3J7	0		STATUS	Initial Diagnosis	stage I	5th	m0	n0	t2			
+TCGA-EE-A3J8	0		STATUS	Initial Diagnosis	stage IIIa	6th	m0	n1a	t4a			
+TCGA-EE-A3JA	0		STATUS	Initial Diagnosis	stage Ib	6th	m0	n0	t2a			
+TCGA-EE-A3JB	0		STATUS	Initial Diagnosis	stage III	3rd	m0	n1	t3a			
+TCGA-EE-A3JD	0		STATUS	Initial Diagnosis	stage III	6th	m0	n2b	tx			
+TCGA-EE-A3JE	0		STATUS	Initial Diagnosis	stage IIIb	6th	m0	n1a	t3b			
+TCGA-EE-A3JH	0		STATUS	Initial Diagnosis	stage Ib	6th	m0	n0	t2			
+TCGA-EE-A3JI	0		STATUS	Initial Diagnosis	stage I	5th	m0	n0	t2			
+TCGA-ER-A193	0		STATUS	Initial Diagnosis	stage IIb	6th	m0	n0	t3b			
+TCGA-ER-A194	0		STATUS	Initial Diagnosis		6th	m0	n0				
+TCGA-ER-A195	0		STATUS	Initial Diagnosis		6th	m0	n0	tx			
+TCGA-ER-A196	0		STATUS	Initial Diagnosis	stage IIc	6th	m0	n0	t4b			
+TCGA-ER-A197	0		STATUS	Initial Diagnosis	stage IIIb	6th	m0	n1a	t4b			
+TCGA-ER-A198	0		STATUS	Initial Diagnosis		6th	m0	nx				
+TCGA-ER-A199	0		STATUS	Initial Diagnosis	stage IIIc	6th	m0	n3	t4b			
+TCGA-ER-A19A	0		STATUS	Initial Diagnosis	stage IV	6th	m1	n0	tx			
+TCGA-ER-A19B	0		STATUS	Initial Diagnosis		5th	m0	n0	tx			
+TCGA-ER-A19C	0		STATUS	Initial Diagnosis	stage I	5th	m0	nx	t2a			
+TCGA-ER-A19D	0		STATUS	Initial Diagnosis	stage Ib	6th	m0	n0	t2a			
+TCGA-ER-A19E	0		STATUS	Initial Diagnosis	stage Ib	6th	m0	n0	t2a			
+TCGA-ER-A19F	0		STATUS	Initial Diagnosis		6th	m0	n0				
+TCGA-ER-A19G	0		STATUS	Initial Diagnosis		2nd	m0	n0				
+TCGA-ER-A19H	0		STATUS	Initial Diagnosis		4th	m0	n0				
+TCGA-ER-A19J	0		STATUS	Initial Diagnosis	stage IV	6th	m1	n3	tx			
+TCGA-ER-A19K	0		STATUS	Initial Diagnosis	stage IIc	6th	m0	n0	t4b			
+TCGA-ER-A19L	0		STATUS	Initial Diagnosis		4th						
+TCGA-ER-A19M	0		STATUS	Initial Diagnosis	stage Ib	6th	m0	n0	t2a			
+TCGA-ER-A19N	0		STATUS	Initial Diagnosis								
+TCGA-ER-A19O	0		STATUS	Initial Diagnosis	stage IIIb	6th	m0	n1b	t3b			
+TCGA-ER-A19P	0		STATUS	Initial Diagnosis		4th	m0	n0				
+TCGA-ER-A19Q	0		STATUS	Initial Diagnosis		5th	m0	n0				
+TCGA-ER-A19S	0		STATUS	Initial Diagnosis								
+TCGA-ER-A19T	0		STATUS	Initial Diagnosis	stage IV	6th	m1a	n3	t4a			
+TCGA-ER-A19W	0		STATUS	Initial Diagnosis		4th						
+TCGA-ER-A1A1	0		STATUS	Initial Diagnosis	stage IIIc	6th	m0	n3	tx			
+TCGA-ER-A2NB	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n2	t4b			
+TCGA-ER-A2NC	0		STATUS	Initial Diagnosis	stage Ib	6th	m0	n0	t2a			
+TCGA-ER-A2ND	0		STATUS	Initial Diagnosis	stage IIIc	6th	m0	n3	t1b			
+TCGA-ER-A2NE	0		STATUS	Initial Diagnosis	stage 0	6th	m0	n0	tis			
+TCGA-ER-A2NF	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n3	t3b			
+TCGA-ER-A2NG	0		STATUS	Initial Diagnosis	stage IIIc	6th	m0	n3	t3b			
+TCGA-ER-A2NH	0		STATUS	Initial Diagnosis	stage IIIc	6th	m0	n3	t3a			
+TCGA-ER-A3ES	0		STATUS	Initial Diagnosis								
+TCGA-ER-A3ET	0		STATUS	Initial Diagnosis	stage IIIa	6th	m0	n1a	t3a			
+TCGA-ER-A3EV	0		STATUS	Initial Diagnosis	stage III	5th	m0	n0	t4			
+TCGA-ER-A3PL	0		STATUS	Initial Diagnosis	stage IV	6th	m1a	n0	t3b			
+TCGA-ER-A42H	0		STATUS	Initial Diagnosis								
+TCGA-ER-A42K	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t4b			
+TCGA-ER-A42L	0		STATUS	Initial Diagnosis	stage II	5th	m0	n0	t3			
+TCGA-FR-A2OS	0		STATUS	Initial Diagnosis	stage IIc	6th	m0	n0	t4b			
+TCGA-FR-A3R1	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-FR-A3YN	0		STATUS	Initial Diagnosis	stage Ib	6th	m0	n0	t2a			
+TCGA-FR-A44A	0		STATUS	Initial Diagnosis	stage II	5th	m0	n0	t3a			
+TCGA-FR-A69P	0		STATUS	Initial Diagnosis	stage IIIc	7th		n3	tx			
+TCGA-FR-A726	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-FR-A728	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n2a	t4b			
+TCGA-FR-A729	0		STATUS	Initial Diagnosis	stage I	4th	m0	n0	t1			
+TCGA-FR-A7U8	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	tx			
+TCGA-FR-A7U9	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t3b			
+TCGA-FR-A7UA	0		STATUS	Initial Diagnosis	stage Ib	7th	m0	n0	t2a			
+TCGA-FR-A8YC	0		STATUS	Initial Diagnosis	stage IIb	7th	m0	n0	t3b			
+TCGA-FR-A8YD	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-FR-A8YE	0		STATUS	Initial Diagnosis	stage Ia	6th	m0	n0	t1a			
+TCGA-FS-A1YW	0		STATUS	Initial Diagnosis	stage Ib	2nd	m0	n0	t1b			
+TCGA-FS-A1YX	0		STATUS	Initial Diagnosis	stage I	5th	m0	n0	t2			
+TCGA-FS-A1YY	0		STATUS	Initial Diagnosis	stage IIa	2nd	m0	n0	t3a			
+TCGA-FS-A1Z0	0		STATUS	Initial Diagnosis	stage Ia	3rd	m0	n0	t1a			
+TCGA-FS-A1Z3	0		STATUS	Initial Diagnosis	stage IV	5th	m1	n0	tx			
+TCGA-FS-A1Z4	0		STATUS	Initial Diagnosis	stage I	5th	m0	n0	t1			
+TCGA-FS-A1Z7	0		STATUS	Initial Diagnosis	stage IIIc	6th	m0	n1b	t4b			
+TCGA-FS-A1ZA	0		STATUS	Initial Diagnosis	stage IIIb	6th	m0	n2c	t4b			
+TCGA-FS-A1ZB	0		STATUS	Initial Diagnosis	stage II	5th	m0	n0	t3a			
+TCGA-FS-A1ZC	0		STATUS	Initial Diagnosis	I/II nos	1st	m0	n0	tx			
+TCGA-FS-A1ZD	0		STATUS	Initial Diagnosis	stage IIa	6th	m0	n0	t2b			
+TCGA-FS-A1ZE	0		STATUS	Initial Diagnosis	stage IIc	6th	m0	n0	t4b			
+TCGA-FS-A1ZF	0		STATUS	Initial Diagnosis	stage IIc	6th	m0	n0	t4b			
+TCGA-FS-A1ZG	0		STATUS	Initial Diagnosis	stage IIIc	6th	m0	n2b	t4b			
+TCGA-FS-A1ZH	0		STATUS	Initial Diagnosis	stage IV	6th	m1c	n2c	t3b			
+TCGA-FS-A1ZJ	0		STATUS	Initial Diagnosis	stage I	5th	m0	n0	t2			
+TCGA-FS-A1ZK	0		STATUS	Initial Diagnosis	stage II	6th	m0	n0	t4			
+TCGA-FS-A1ZM	0		STATUS	Initial Diagnosis	stage III	5th	m0	n2c	t2			
+TCGA-FS-A1ZN	0		STATUS	Initial Diagnosis	stage IIIa	5th	m0	n1a	t4b			
+TCGA-FS-A1ZP	0		STATUS	Initial Diagnosis	stage II	5th	m0	n0	t3			
+TCGA-FS-A1ZQ	0		STATUS	Initial Diagnosis	I/II nos	6th	m0	n0	tx			
+TCGA-FS-A1ZR	0		STATUS	Initial Diagnosis	stage II	4th	m0	n0	t2			
+TCGA-FS-A1ZS	0		STATUS	Initial Diagnosis	stage I	5th	m0	n0	t2			
+TCGA-FS-A1ZT	0		STATUS	Initial Diagnosis	stage III	6th	m0	n1b	t2			
+TCGA-FS-A1ZU	0		STATUS	Initial Diagnosis	stage IIc	5th	m0	n0	t4b			
+TCGA-FS-A1ZW	0		STATUS	Initial Diagnosis	stage IIIb	6th	m0	n1a	t2b			
+TCGA-FS-A1ZY	0		STATUS	Initial Diagnosis	stage IIb	6th	m0	n0	t3b			
+TCGA-FS-A1ZZ	0		STATUS	Initial Diagnosis	stage IIb	6th	m0	n0	t3b			
+TCGA-FS-A4F0	0		STATUS	Initial Diagnosis	stage IIb	6th	m0	n0	t4a			
+TCGA-FS-A4F2	0		STATUS	Initial Diagnosis	stage IIc	6th	m0	n0	t4b			
+TCGA-FS-A4F4	0		STATUS	Initial Diagnosis	stage II	5th	m0	n0	t3a			
+TCGA-FS-A4F5	0		STATUS	Initial Diagnosis	stage Ib	6th	m0	n0	t2a			
+TCGA-FS-A4F8	0		STATUS	Initial Diagnosis	stage I	4th	m0	n0	t1			
+TCGA-FS-A4F9	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t4b			
+TCGA-FS-A4FB	0		STATUS	Initial Diagnosis	stage III	6th	m0	n1a	t2			
+TCGA-FS-A4FC	0		STATUS	Initial Diagnosis	stage IIa	6th	m0	n0	t3a			
+TCGA-FS-A4FD	0		STATUS	Initial Diagnosis	stage IIIc	6th	m0	n3	t2			
+TCGA-FW-A3I3	0		STATUS	Initial Diagnosis	stage IV	7th	m1	n0				
+TCGA-FW-A3R5	0		STATUS	Initial Diagnosis	stage III	7th	m0	n2	tx			
+TCGA-FW-A3TU	0		STATUS	Initial Diagnosis								
+TCGA-FW-A3TV	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n2b	t1			
+TCGA-FW-A5DX	0		STATUS	Initial Diagnosis	stage IIIc	7th		n3	t4a			
+TCGA-FW-A5DY	0		STATUS	Initial Diagnosis	stage III	7th		n1	t3			
+TCGA-GF-A2C7	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	n0	t4b			
+TCGA-GF-A3OT	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t3			
+TCGA-GF-A4EO	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t0			
+TCGA-GF-A6C8	0		STATUS	Initial Diagnosis	stage IIb	7th	m0	nx	t3b			
+TCGA-GF-A6C9	0		STATUS	Initial Diagnosis	stage IIIb	7th						
+TCGA-GF-A769	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	nx	t4b			
+TCGA-GN-A262	0		STATUS	Initial Diagnosis								
+TCGA-GN-A263	0		STATUS	Initial Diagnosis	stage IV	6th	m1c	n3	t4b			
+TCGA-GN-A264	0		STATUS	Initial Diagnosis								
+TCGA-GN-A265	0		STATUS	Initial Diagnosis								
+TCGA-GN-A266	0		STATUS	Initial Diagnosis								
+TCGA-GN-A267	0		STATUS	Initial Diagnosis	stage IIIa	6th	m0	n1a	t4a			
+TCGA-GN-A268	0		STATUS	Initial Diagnosis	stage IIb	6th	m0	n0	t4a			
+TCGA-GN-A269	0		STATUS	Initial Diagnosis	stage IIIc	6th	m0	n3	t4b			
+TCGA-GN-A26A	0		STATUS	Initial Diagnosis	stage IIIa	6th	m0	n1a	t3a			
+TCGA-GN-A26C	0		STATUS	Initial Diagnosis	stage IIIc	6th	m0	n2b	t4b			
+TCGA-GN-A26D	0		STATUS	Initial Diagnosis	stage IIc	6th		n0	t4b			
+TCGA-GN-A4U3	0		STATUS	Initial Diagnosis	stage III	6th	m0	n1a	t3a			
+TCGA-GN-A4U4	0		STATUS	Initial Diagnosis	stage IIa	7th	m0	nx	t2b			
+TCGA-GN-A4U5	0		STATUS	Initial Diagnosis	stage Ib	7th	m0	nx	t2a			
+TCGA-GN-A4U7	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t2b			
+TCGA-GN-A4U8	0		STATUS	Initial Diagnosis		6th						
+TCGA-GN-A4U9	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t2b			
+TCGA-GN-A8LK	0		STATUS	Initial Diagnosis	stage Ib	6th		nx	t1b			
+TCGA-GN-A8LL	0		STATUS	Initial Diagnosis	stage IIc	7th	m0	nx	t4b			
+TCGA-GN-A9SD	0		STATUS	Initial Diagnosis	stage Ia	6th	m0	nx	t1a			
+TCGA-HR-A2OG	0		STATUS	Initial Diagnosis								
+TCGA-HR-A2OH	0		STATUS	Initial Diagnosis	stage IIIb	6th	m0	n2a	t3b			
+TCGA-IH-A3EA	0		STATUS	Initial Diagnosis	stage IIc	6th	m0	n0	t4b			
+TCGA-LH-A9QB	0		STATUS	Initial Diagnosis		2nd						
+TCGA-OD-A75X	0		STATUS	Initial Diagnosis		3rd	m0	nx	tx			
+TCGA-QB-A6FS	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t0			
+TCGA-QB-AA9O	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	tx			
+TCGA-RP-A690	0		STATUS	Initial Diagnosis		6th						
+TCGA-RP-A693	0		STATUS	Initial Diagnosis	stage IV	6th	m1c	nx	tx			
+TCGA-RP-A694	0		STATUS	Initial Diagnosis	stage IV	6th	m1c	nx	tx			
+TCGA-W3-A824	0		STATUS	Initial Diagnosis	stage I	4th	m0	n0	t2			
+TCGA-W3-A825	0		STATUS	Initial Diagnosis	stage II	5th	m0	n0	t3			
+TCGA-W3-A828	0		STATUS	Initial Diagnosis	stage II	4th	m0	n0	t3			
+TCGA-W3-AA1O	0		STATUS	Initial Diagnosis	stage III	4th	m0	n2	tx			
+TCGA-W3-AA1Q	0		STATUS	Initial Diagnosis	stage III	4th	m0	n1	tx			
+TCGA-W3-AA1R	0		STATUS	Initial Diagnosis	stage II	4th	m0	n0	t3			
+TCGA-W3-AA1V	0		STATUS	Initial Diagnosis	stage II	4th	m0	n0	t3			
+TCGA-W3-AA1W	0		STATUS	Initial Diagnosis	stage II	4th	m0	n0	t3			
+TCGA-W3-AA21	0		STATUS	Initial Diagnosis	stage I	4th	m0	n0	t2			
+TCGA-WE-A8JZ	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n1a	t4b			
+TCGA-WE-A8K1	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t3b			
+TCGA-WE-A8K5	0		STATUS	Initial Diagnosis	stage IV	6th	m1c	n3	t2a			
+TCGA-WE-A8K6	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n1b	tx			
+TCGA-WE-A8ZM	0		STATUS	Initial Diagnosis	stage IIIb	6th	m0	n1b	tx			
+TCGA-WE-A8ZN	0		STATUS	Initial Diagnosis	stage IIb	6th	m0	nx	t4a			
+TCGA-WE-A8ZO	0		STATUS	Initial Diagnosis	stage IIIb	6th	m0	n1b	t3a			
+TCGA-WE-A8ZQ	0		STATUS	Initial Diagnosis	stage IIa	6th	m0	n0	t3a			
+TCGA-WE-A8ZT	0		STATUS	Initial Diagnosis	stage IV	7th	m1b	n1b	t3b			
+TCGA-WE-A8ZX	0		STATUS	Initial Diagnosis	stage IIIb	7th	m0	n1b	tx			
+TCGA-WE-A8ZY	0		STATUS	Initial Diagnosis	stage IIa	7th	m0	nx	t3a			
+TCGA-WE-AA9Y	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	t2a			
+TCGA-WE-AAA0	0		STATUS	Initial Diagnosis	stage Ia	7th	m0	n0	t1a			
+TCGA-WE-AAA3	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n2b	t4b			
+TCGA-WE-AAA4	0		STATUS	Initial Diagnosis	stage IIIc	7th	m0	n3	tx			
+TCGA-XV-AB01	0		STATUS	Initial Diagnosis	stage II	7th	m0	nx	t3			
+TCGA-YD-A89C	0		STATUS	Initial Diagnosis	stage Ia	7th	m0	nx	t1a			
+TCGA-YD-A9TA	0		STATUS	Initial Diagnosis								
+TCGA-YG-AA3O	0		STATUS	Initial Diagnosis								
+TCGA-YG-AA3P	0		STATUS	Initial Diagnosis	stage IIb	7th	m0	n0	t4a			
+TCGA-Z2-A8RT	0		STATUS	Initial Diagnosis	stage IIb	7th	m0	n0	t3b			
+TCGA-Z2-AA3S	0		STATUS	Initial Diagnosis	stage Ia	6th	m0	n0	t1a			
+TCGA-Z2-AA3V	0		STATUS	Initial Diagnosis	stage Ia	7th	m0	n0	t1a			
+TCGA-3N-A9WB	426		STATUS	Locoregional Recurrence								
+TCGA-3N-A9WB	457		STATUS	Distant Metastasis								
+TCGA-3N-A9WB	487		STATUS	Distant Metastasis								
+TCGA-3N-A9WC	1705		STATUS	Distant Metastasis								
+TCGA-3N-A9WD	306		STATUS	Distant Metastasis								
+TCGA-BF-A1PU	484		STATUS	Distant Metastasis								
+TCGA-BF-A3DJ	217		STATUS	Distant Metastasis								
+TCGA-D3-A1Q1	58		STATUS	Locoregional Recurrence								
+TCGA-D3-A1Q1	289		STATUS	Locoregional Recurrence								
+TCGA-D3-A1Q1	357		STATUS	Regional Lymph Node								
+TCGA-D3-A1Q1	469		STATUS	Distant Metastasis								
+TCGA-D3-A1Q5	2452		STATUS	Locoregional Recurrence								
+TCGA-D3-A1Q6	48		STATUS	Regional Lymph Node								
+TCGA-D3-A1Q7	921		STATUS	Distant Metastasis								
+TCGA-D3-A1Q7	1089		STATUS	Distant Metastasis								
+TCGA-D3-A1Q8	147		STATUS	Distant Metastasis								
+TCGA-D3-A1Q8	434		STATUS	Distant Metastasis								
+TCGA-D3-A1Q8	547		STATUS	Distant Metastasis								
+TCGA-D3-A1Q8	644		STATUS	Distant Metastasis								
+TCGA-D3-A1Q8	777		STATUS	Distant Metastasis								
+TCGA-D3-A1Q8	779		STATUS	Distant Metastasis								
+TCGA-D3-A1Q9	44		STATUS	Regional Lymph Node								
+TCGA-D3-A1Q9	503		STATUS	Distant Metastasis								
+TCGA-D3-A1QA	1393		STATUS	Distant Metastasis								
+TCGA-D3-A1QA	1568		STATUS	Distant Metastasis								
+TCGA-D3-A1QA	2042		STATUS	Distant Metastasis								
+TCGA-D3-A1QA	2105		STATUS	Distant Metastasis								
+TCGA-D3-A1QA	2553		STATUS	Distant Metastasis								
+TCGA-D3-A1QB	0		STATUS	Locoregional Recurrence								
+TCGA-D3-A1QB	384		STATUS	Locoregional Recurrence								
+TCGA-D3-A1QB	538		STATUS	Locoregional Recurrence								
+TCGA-D3-A1QB	943		STATUS	Locoregional Recurrence								
+TCGA-D3-A2J6	448		STATUS	New Primary Melanoma								
+TCGA-D3-A2J6	1288		STATUS	Distant Metastasis								
+TCGA-D3-A2J6	1289		STATUS	Regional Lymph Node								
+TCGA-D3-A2J7	13		STATUS	Regional Lymph Node								
+TCGA-D3-A2J7	722		STATUS	Regional Lymph Node								
+TCGA-D3-A2J7	1323		STATUS	Distant Metastasis								
+TCGA-D3-A2J7	1792		STATUS	Distant Metastasis								
+TCGA-D3-A2J7	2063		STATUS	Progression Of Disease						Colon		
+TCGA-D3-A2J7	2162		STATUS	Progression Of Disease						Prostate		
+TCGA-D3-A2J8	1737		STATUS	Locoregional Recurrence								
+TCGA-D3-A2J8	1743		STATUS	Distant Metastasis								
+TCGA-D3-A2J8	1814		STATUS	Distant Metastasis								
+TCGA-D3-A2J9	231		STATUS	Distant Metastasis								
+TCGA-D3-A2J9	340		STATUS	Distant Metastasis								
+TCGA-D3-A2J9	433		STATUS	Distant Metastasis								
+TCGA-D3-A2J9	551		STATUS	Distant Metastasis								
+TCGA-D3-A2JA	40		STATUS	Regional Lymph Node								
+TCGA-D3-A2JB	3035		STATUS	Locoregional Recurrence								
+TCGA-D3-A2JB	3161		STATUS	Locoregional Recurrence								
+TCGA-D3-A2JB	3219		STATUS	Distant Metastasis								
+TCGA-D3-A2JB	3219		STATUS	Locoregional Recurrence								
+TCGA-D3-A2JD	85		STATUS	Distant Metastasis								
+TCGA-D3-A2JD	199		STATUS	Distant Metastasis								
+TCGA-D3-A2JE	149		STATUS	Progression Of Disease						Kidney		
+TCGA-D3-A2JE	188		STATUS	New Primary Melanoma								
+TCGA-D3-A2JE	330		STATUS	Distant Metastasis								
+TCGA-D3-A2JE	365		STATUS	New Primary Melanoma								
+TCGA-D3-A2JE	365		STATUS	Progression Of Disease						Extremities		
+TCGA-D3-A2JE	400		STATUS	Distant Metastasis								
+TCGA-D3-A2JE	435		STATUS	Distant Metastasis								
+TCGA-D3-A2JE	491		STATUS	Distant Metastasis								
+TCGA-D3-A2JE	566		STATUS	Distant Metastasis								
+TCGA-D3-A2JE	779		STATUS	Distant Metastasis								
+TCGA-D3-A2JE	780		STATUS	Distant Metastasis								
+TCGA-D3-A2JF	25		STATUS	New Primary Melanoma								
+TCGA-D3-A2JF	544		STATUS	Distant Metastasis								
+TCGA-D3-A2JF	1335		STATUS	New Primary Melanoma								
+TCGA-D3-A2JG	3279		STATUS	Distant Metastasis								
+TCGA-D3-A2JH	569		STATUS	Distant Metastasis								
+TCGA-D3-A2JK	261		STATUS	Distant Metastasis								
+TCGA-D3-A2JK	268		STATUS	Distant Metastasis								
+TCGA-D3-A2JL	2638		STATUS	Distant Metastasis								
+TCGA-D3-A2JL	2889		STATUS	Distant Metastasis								
+TCGA-D3-A2JL	2934		STATUS	Distant Metastasis								
+TCGA-D3-A2JL	2995		STATUS	Distant Metastasis								
+TCGA-D3-A2JO	50		STATUS	Distant Metastasis								
+TCGA-D3-A2JO	2010		STATUS	New Primary Melanoma								
+TCGA-D3-A2JP	227		STATUS	Distant Metastasis								
+TCGA-D3-A3BZ	2340		STATUS	Progression Of Disease						Head & Neck		
+TCGA-D3-A3C6	1441		STATUS	Distant Metastasis								
+TCGA-D3-A3C6	1595		STATUS	Distant Metastasis								
+TCGA-D3-A3C6	1623		STATUS	Distant Metastasis								
+TCGA-D3-A3C8	55		STATUS	Distant Metastasis								
+TCGA-D3-A3C8	176		STATUS	Distant Metastasis								
+TCGA-D3-A3CC	96		STATUS	Locoregional Recurrence								
+TCGA-D3-A3CC	777		STATUS	Locoregional Recurrence								
+TCGA-D3-A3CC	2561		STATUS	Locoregional Recurrence								
+TCGA-D3-A3CE	0		STATUS	Regional Lymph Node								
+TCGA-D3-A3CE	868		STATUS	New Primary Melanoma								
+TCGA-D3-A3CE	1521		STATUS	Distant Metastasis								
+TCGA-D3-A3CE	1555		STATUS	Distant Metastasis								
+TCGA-D3-A3CE	1567		STATUS	Distant Metastasis								
+TCGA-D3-A3CF	129		STATUS	Distant Metastasis								
+TCGA-D3-A3CF	269		STATUS	Locoregional Recurrence								
+TCGA-D3-A3CF	655		STATUS	Distant Metastasis								
+TCGA-D3-A3ML	32		STATUS	Regional Lymph Node								
+TCGA-D3-A3ML	155		STATUS	Regional Lymph Node								
+TCGA-D3-A3ML	386		STATUS	Distant Metastasis								
+TCGA-D3-A3MO	47		STATUS	Distant Metastasis								
+TCGA-D3-A3MO	84		STATUS	Distant Metastasis								
+TCGA-D3-A3MO	84		STATUS	Locoregional Recurrence								
+TCGA-D3-A3MO	202		STATUS	Distant Metastasis								
+TCGA-D3-A3MO	250		STATUS	Distant Metastasis								
+TCGA-D3-A3MO	252		STATUS	Distant Metastasis								
+TCGA-D3-A3MR	3108		STATUS	Progression Of Disease						Extremities		
+TCGA-D3-A3MU	750		STATUS	Distant Metastasis								
+TCGA-D3-A3MU	845		STATUS	Regional Lymph Node								
+TCGA-D3-A3MU	951		STATUS	Distant Metastasis								
+TCGA-D3-A3MU	1063		STATUS	Regional Lymph Node								
+TCGA-D3-A3MV	16		STATUS	Regional Lymph Node								
+TCGA-D3-A5GL	1092		STATUS	Distant Metastasis								
+TCGA-D3-A5GN	1279		STATUS	New Primary Melanoma								
+TCGA-D3-A5GN	2159		STATUS	Regional Lymph Node								
+TCGA-D3-A5GN	2374		STATUS	Distant Metastasis								
+TCGA-D3-A5GN	2703		STATUS	Distant Metastasis								
+TCGA-D3-A5GO	757		STATUS	Progression Of Disease						Extremities		
+TCGA-D3-A5GO	793		STATUS	Progression Of Disease						Trunk		
+TCGA-D3-A5GO	2199		STATUS	Distant Metastasis								
+TCGA-D3-A5GO	2416		STATUS	New Primary Melanoma								
+TCGA-D3-A5GR	0		STATUS	Regional Lymph Node								
+TCGA-D3-A5GR	5354		STATUS	Distant Metastasis								
+TCGA-D3-A5GS	44		STATUS	Distant Metastasis								
+TCGA-D3-A5GS	161		STATUS	Distant Metastasis								
+TCGA-D3-A5GT	291		STATUS	Distant Metastasis								
+TCGA-D3-A5GT	291		STATUS	Regional Lymph Node								
+TCGA-D3-A5GU	3074		STATUS	Distant Metastasis								
+TCGA-D3-A5GU	3089		STATUS	Regional Lymph Node								
+TCGA-D3-A5GU	3105		STATUS	Distant Metastasis								
+TCGA-D3-A5GU	3115		STATUS	Distant Metastasis								
+TCGA-D3-A5GU	3166		STATUS	Distant Metastasis								
+TCGA-D3-A5GU	3227		STATUS	Distant Metastasis								
+TCGA-D3-A5GU	3258		STATUS	Distant Metastasis								
+TCGA-D3-A8GB	347		STATUS	Distant Metastasis								
+TCGA-D3-A8GB	433		STATUS	Distant Metastasis								
+TCGA-D3-A8GB	461		STATUS	Distant Metastasis								
+TCGA-D3-A8GC	1859		STATUS	Distant Metastasis								
+TCGA-D3-A8GC	1889		STATUS	Distant Metastasis								
+TCGA-D3-A8GC	1992		STATUS	Distant Metastasis								
+TCGA-D3-A8GC	2288		STATUS	Distant Metastasis								
+TCGA-D3-A8GD	147		STATUS	Distant Metastasis								
+TCGA-D3-A8GE	59		STATUS	Distant Metastasis								
+TCGA-D3-A8GI	50		STATUS	New Primary Melanoma								
+TCGA-D3-A8GI	1042		STATUS	New Primary Melanoma								
+TCGA-D3-A8GI	1739		STATUS	Distant Metastasis								
+TCGA-D3-A8GJ	1443		STATUS	Distant Metastasis								
+TCGA-D3-A8GK	1555		STATUS	Locoregional Recurrence								
+TCGA-D3-A8GL	1333		STATUS	Regional Lymph Node								
+TCGA-D3-A8GL	1959		STATUS	Distant Metastasis								
+TCGA-D3-A8GL	1988		STATUS	Distant Metastasis								
+TCGA-D3-A8GL	2576		STATUS	Distant Metastasis								
+TCGA-D3-A8GN	787		STATUS	Distant Metastasis								
+TCGA-D3-A8GP	535		STATUS	Locoregional Recurrence								
+TCGA-D3-A8GQ	578		STATUS	Distant Metastasis								
+TCGA-D3-A8GQ	708		STATUS	Distant Metastasis								
+TCGA-D3-A8GQ	792		STATUS	Distant Metastasis								
+TCGA-D3-A8GR	1720		STATUS	Locoregional Recurrence								
+TCGA-D3-A8GR	2714		STATUS	Distant Metastasis								
+TCGA-D3-A8GR	3773		STATUS	Distant Metastasis								
+TCGA-D3-A8GR	3775		STATUS	Distant Metastasis								
+TCGA-D3-A8GS	2641		STATUS	Regional Lymph Node								
+TCGA-D3-A8GS	2808		STATUS	Distant Metastasis								
+TCGA-D3-A8GS	2832		STATUS	Locoregional Recurrence								
+TCGA-D3-A8GS	2848		STATUS	Distant Metastasis								
+TCGA-D3-A8GV	3896		STATUS	Regional Lymph Node								
+TCGA-D3-A8GV	4576		STATUS	Distant Metastasis								
+TCGA-D3-A8GV	4838		STATUS	Distant Metastasis								
+TCGA-D3-A51H	838		STATUS	Regional Lymph Node								
+TCGA-D3-A51J	2008		STATUS	Regional Lymph Node								
+TCGA-D3-A51N	18		STATUS	Distant Metastasis								
+TCGA-D3-A51N	570		STATUS	Distant Metastasis								
+TCGA-D3-A51R	1016		STATUS	Regional Lymph Node								
+TCGA-D3-A51R	1662		STATUS	Distant Metastasis								
+TCGA-D3-A51T	210		STATUS	New Primary Melanoma								
+TCGA-D9-A1JW	10		STATUS	Distant Metastasis								
+TCGA-D9-A1JX	195		STATUS	Distant Metastasis								
+TCGA-D9-A3Z1	335		STATUS	Locoregional Recurrence								
+TCGA-D9-A3Z4	192		STATUS	Regional Lymph Node								
+TCGA-D9-A4Z2	80		STATUS	Distant Metastasis								
+TCGA-D9-A4Z3	100		STATUS	Locoregional Recurrence								
+TCGA-D9-A4Z6	213		STATUS	Distant Metastasis								
+TCGA-D9-A6EG	398		STATUS	Distant Metastasis								
+TCGA-D9-A148	4287		STATUS	Distant Metastasis								
+TCGA-D9-A148	4287		STATUS	Distant Metastasis						Lung		
+TCGA-D9-A148	4364		STATUS	Distant Metastasis								
+TCGA-D9-A149	1290		STATUS	New Primary Melanoma								
+TCGA-DA-A1HV	866		STATUS	Distant Metastasis								
+TCGA-DA-A1I0	599		STATUS	Distant Metastasis								
+TCGA-DA-A1I1	5591		STATUS	Distant Metastasis								
+TCGA-DA-A1I2	4679		STATUS	Regional Lymph Node								
+TCGA-DA-A1I2	5305		STATUS	Distant Metastasis								
+TCGA-DA-A1I4	889		STATUS	Distant Metastasis								
+TCGA-DA-A1I7	755		STATUS	Distant Metastasis								
+TCGA-DA-A1I8	961		STATUS	Regional Lymph Node								
+TCGA-DA-A1I8	1308		STATUS	Distant Metastasis								
+TCGA-DA-A1IA	2195		STATUS	Distant Metastasis								
+TCGA-DA-A1IB	243		STATUS	Distant Metastasis								
+TCGA-DA-A1IC	1930		STATUS	Distant Metastasis								
+TCGA-DA-A3F2	430		STATUS	Distant Metastasis								
+TCGA-DA-A3F5	6841		STATUS	Distant Metastasis								
+TCGA-DA-A95Y	338		STATUS	Distant Metastasis								
+TCGA-EB-A3XC	74		STATUS	Distant Metastasis								
+TCGA-EB-A3XC	372		STATUS	Regional Lymph Node								
+TCGA-EB-A4IQ	337		STATUS	Locoregional Recurrence								
+TCGA-EB-A4IQ	337		STATUS	Regional Lymph Node								
+TCGA-EB-A5FP	24		STATUS	Distant Metastasis								
+TCGA-EB-A5FP	24		STATUS	Regional Lymph Node								
+TCGA-EB-A5SE	367		STATUS	Distant Metastasis								
+TCGA-EB-A5SG	1372		STATUS	Locoregional Recurrence								
+TCGA-EB-A5SH	1065		STATUS	Locoregional Recurrence								
+TCGA-EB-A5UN	1689		STATUS	Distant Metastasis								
+TCGA-EB-A5VU	217		STATUS	Locoregional Recurrence								
+TCGA-EB-A6QY	36		STATUS	Regional Lymph Node								
+TCGA-EB-A6QZ	129		STATUS	Regional Lymph Node								
+TCGA-EB-A6QZ	341		STATUS	Distant Metastasis								
+TCGA-EB-A24C	465		STATUS	Regional Lymph Node								
+TCGA-EB-A24D	500		STATUS	Regional Lymph Node								
+TCGA-EB-A42Y	721		STATUS	Regional Lymph Node								
+TCGA-EB-A44N	115		STATUS	Regional Lymph Node								
+TCGA-EB-A44N	162		STATUS	Distant Metastasis								
+TCGA-EB-A44O	60		STATUS	Regional Lymph Node								
+TCGA-EE-A2A0	1247		STATUS	Distant Metastasis								
+TCGA-EE-A2A1	3488		STATUS	Regional Lymph Node								
+TCGA-EE-A2A5	1028		STATUS	Regional Lymph Node								
+TCGA-EE-A2A5	1112		STATUS	Distant Metastasis								
+TCGA-EE-A2A5	1117		STATUS	Distant Metastasis								
+TCGA-EE-A2A5	1117		STATUS	Regional Lymph Node								
+TCGA-EE-A2A6	1505		STATUS	New Primary Melanoma								
+TCGA-EE-A2GD	3689		STATUS	Locoregional Recurrence								
+TCGA-EE-A2GD	5818		STATUS	Locoregional Recurrence								
+TCGA-EE-A2GD	6038		STATUS	Locoregional Recurrence								
+TCGA-EE-A2GD	7361		STATUS	Locoregional Recurrence								
+TCGA-EE-A2GD	7449		STATUS	Locoregional Recurrence								
+TCGA-EE-A2GD	7512		STATUS	Locoregional Recurrence								
+TCGA-EE-A2GD	7652		STATUS	Locoregional Recurrence								
+TCGA-EE-A2GD	9021		STATUS	Locoregional Recurrence								
+TCGA-EE-A2GD	10143		STATUS	Locoregional Recurrence								
+TCGA-EE-A2GE	5276		STATUS	Progression Of Disease						Extremities		
+TCGA-EE-A2GJ	733		STATUS	New Primary Melanoma								
+TCGA-EE-A2GJ	2624		STATUS	Locoregional Recurrence								
+TCGA-EE-A2GJ	3014		STATUS	Locoregional Recurrence								
+TCGA-EE-A2GJ	3121		STATUS	Distant Metastasis								
+TCGA-EE-A2GL	2329		STATUS	Distant Metastasis								
+TCGA-EE-A2GL	2367		STATUS	Distant Metastasis								
+TCGA-EE-A2GM	1218		STATUS	Locoregional Recurrence								
+TCGA-EE-A2GM	1715		STATUS	Distant Metastasis								
+TCGA-EE-A2GN	2422		STATUS	Distant Metastasis								
+TCGA-EE-A2GN	3050		STATUS	Distant Metastasis								
+TCGA-EE-A2GN	3053		STATUS	Distant Metastasis								
+TCGA-EE-A2GO	2216		STATUS	Regional Lymph Node								
+TCGA-EE-A2GO	3716		STATUS	Progression Of Disease						Extremities		
+TCGA-EE-A2GP	251		STATUS	Distant Metastasis								
+TCGA-EE-A2GP	258		STATUS	Locoregional Recurrence								
+TCGA-EE-A2GS	1565		STATUS	Distant Metastasis								
+TCGA-EE-A2GS	1565		STATUS	Locoregional Recurrence								
+TCGA-EE-A2GS	1831		STATUS	Distant Metastasis								
+TCGA-EE-A2GS	1945		STATUS	Distant Metastasis								
+TCGA-EE-A2GS	1965		STATUS	Distant Metastasis								
+TCGA-EE-A2GS	2072		STATUS	Distant Metastasis								
+TCGA-EE-A2GS	2253		STATUS	Distant Metastasis								
+TCGA-EE-A2GS	2408		STATUS	Distant Metastasis								
+TCGA-EE-A2GS	2455		STATUS	Distant Metastasis								
+TCGA-EE-A2GT	281		STATUS	Locoregional Recurrence								
+TCGA-EE-A2GT	1357		STATUS	Locoregional Recurrence								
+TCGA-EE-A2M5	537		STATUS	Locoregional Recurrence								
+TCGA-EE-A2M5	579		STATUS	Distant Metastasis								
+TCGA-EE-A2M7	799		STATUS	Distant Metastasis								
+TCGA-EE-A2M8	498		STATUS	Distant Metastasis								
+TCGA-EE-A2MC	896		STATUS	Distant Metastasis								
+TCGA-EE-A2MC	1084		STATUS	Progression Of Disease						Colon		
+TCGA-EE-A2MD	1344		STATUS	Distant Metastasis								
+TCGA-EE-A2MD	1344		STATUS	Regional Lymph Node								
+TCGA-EE-A2ME	2703		STATUS	Distant Metastasis								
+TCGA-EE-A2ME	2933		STATUS	Distant Metastasis								
+TCGA-EE-A2ME	2938		STATUS	Distant Metastasis								
+TCGA-EE-A2ME	3017		STATUS	Locoregional Recurrence								
+TCGA-EE-A2MF	8071		STATUS	New Primary Melanoma								
+TCGA-EE-A2MF	8126		STATUS	Distant Metastasis								
+TCGA-EE-A2MG	2585		STATUS	Distant Metastasis								
+TCGA-EE-A2MG	2633		STATUS	Distant Metastasis								
+TCGA-EE-A2MG	2831		STATUS	Distant Metastasis								
+TCGA-EE-A2MG	2857		STATUS	Distant Metastasis								
+TCGA-EE-A2MG	3020		STATUS	Distant Metastasis								
+TCGA-EE-A2MG	3023		STATUS	Distant Metastasis								
+TCGA-EE-A2MG	3097		STATUS	Distant Metastasis								
+TCGA-EE-A2MH	440		STATUS	Distant Metastasis								
+TCGA-EE-A2MH	445		STATUS	Distant Metastasis								
+TCGA-EE-A2MH	447		STATUS	Distant Metastasis								
+TCGA-EE-A2MI	2673		STATUS	New Primary Melanoma								
+TCGA-EE-A2MI	5144		STATUS	New Primary Melanoma								
+TCGA-EE-A2MI	5794		STATUS	Distant Metastasis								
+TCGA-EE-A2MI	6119		STATUS	Distant Metastasis								
+TCGA-EE-A2MJ	396		STATUS	Regional Lymph Node								
+TCGA-EE-A2MJ	1255		STATUS	Locoregional Recurrence								
+TCGA-EE-A2ML	4983		STATUS	Distant Metastasis								
+TCGA-EE-A2ML	5622		STATUS	Locoregional Recurrence								
+TCGA-EE-A2ML	5851		STATUS	Distant Metastasis								
+TCGA-EE-A2ML	5921		STATUS	Distant Metastasis								
+TCGA-EE-A2ML	5964		STATUS	Distant Metastasis								
+TCGA-EE-A2ML	6165		STATUS	Distant Metastasis								
+TCGA-EE-A2ML	6210		STATUS	Distant Metastasis								
+TCGA-EE-A2ML	6249		STATUS	Distant Metastasis								
+TCGA-EE-A2ML	6271		STATUS	Distant Metastasis								
+TCGA-EE-A2ML	6505		STATUS	Distant Metastasis								
+TCGA-EE-A2ML	6525		STATUS	Distant Metastasis								
+TCGA-EE-A2MM	1357		STATUS	New Primary Melanoma								
+TCGA-EE-A2MM	1744		STATUS	New Primary Melanoma								
+TCGA-EE-A2MM	4328		STATUS	Distant Metastasis								
+TCGA-EE-A2MM	4328		STATUS	Locoregional Recurrence								
+TCGA-EE-A2MM	4517		STATUS	Distant Metastasis								
+TCGA-EE-A2MM	4537		STATUS	Distant Metastasis								
+TCGA-EE-A2MM	4537		STATUS	Locoregional Recurrence								
+TCGA-EE-A2MM	4598		STATUS	Distant Metastasis								
+TCGA-EE-A2MN	969		STATUS	Distant Metastasis								
+TCGA-EE-A2MN	1180		STATUS	Distant Metastasis								
+TCGA-EE-A2MN	1230		STATUS	Distant Metastasis								
+TCGA-EE-A2MN	1267		STATUS	Distant Metastasis								
+TCGA-EE-A2MN	1291		STATUS	Distant Metastasis								
+TCGA-EE-A2MN	1354		STATUS	Distant Metastasis								
+TCGA-EE-A2MN	1359		STATUS	Distant Metastasis								
+TCGA-EE-A2MP	365		STATUS	Locoregional Recurrence								
+TCGA-EE-A2MP	6968		STATUS	Distant Metastasis								
+TCGA-EE-A2MP	7471		STATUS	Distant Metastasis								
+TCGA-EE-A2MP	7506		STATUS	Distant Metastasis								
+TCGA-EE-A2MQ	986		STATUS	Regional Lymph Node								
+TCGA-EE-A2MQ	1124		STATUS	Locoregional Recurrence								
+TCGA-EE-A2MQ	1125		STATUS	Distant Metastasis								
+TCGA-EE-A2MR	3136		STATUS	Progression Of Disease						Extremities		
+TCGA-EE-A2MR	3136		STATUS	Progression Of Disease						Head & Neck		
+TCGA-EE-A2MR	3773		STATUS	Progression Of Disease						Trunk		
+TCGA-EE-A2MS	1883		STATUS	New Primary Melanoma								
+TCGA-EE-A2MS	3481		STATUS	New Primary Melanoma								
+TCGA-EE-A2MS	4522		STATUS	New Primary Melanoma								
+TCGA-EE-A3AD	554		STATUS	Distant Metastasis								
+TCGA-EE-A3AD	567		STATUS	Distant Metastasis								
+TCGA-EE-A3AD	648		STATUS	Distant Metastasis								
+TCGA-EE-A3AF	201		STATUS	Locoregional Recurrence								
+TCGA-EE-A3AF	313		STATUS	Distant Metastasis								
+TCGA-EE-A3AF	333		STATUS	Distant Metastasis								
+TCGA-EE-A3AF	333		STATUS	Locoregional Recurrence								
+TCGA-EE-A3AG	229		STATUS	Regional Lymph Node								
+TCGA-EE-A3AG	501		STATUS	Distant Metastasis								
+TCGA-EE-A3AG	712		STATUS	Distant Metastasis								
+TCGA-EE-A3AH	1981		STATUS	Locoregional Recurrence								
+TCGA-EE-A3AH	3095		STATUS	Regional Lymph Node								
+TCGA-EE-A3AH	3967		STATUS	Distant Metastasis								
+TCGA-EE-A3AH	3969		STATUS	Distant Metastasis								
+TCGA-EE-A3AH	3969		STATUS	Regional Lymph Node								
+TCGA-EE-A3AH	4044		STATUS	Distant Metastasis								
+TCGA-EE-A3AH	4163		STATUS	Distant Metastasis								
+TCGA-EE-A3AH	4184		STATUS	Distant Metastasis								
+TCGA-EE-A3J3	4523		STATUS	Regional Lymph Node								
+TCGA-EE-A3J3	5139		STATUS	Locoregional Recurrence								
+TCGA-EE-A3J3	5143		STATUS	Distant Metastasis								
+TCGA-EE-A3J4	1429		STATUS	Locoregional Recurrence								
+TCGA-EE-A3J4	1611		STATUS	Locoregional Recurrence								
+TCGA-EE-A3J4	1793		STATUS	Locoregional Recurrence								
+TCGA-EE-A3J4	1877		STATUS	Locoregional Recurrence								
+TCGA-EE-A3J4	2248		STATUS	Locoregional Recurrence								
+TCGA-EE-A3J4	2780		STATUS	Distant Metastasis								
+TCGA-EE-A3J4	2780		STATUS	Regional Lymph Node								
+TCGA-EE-A3J4	3676		STATUS	Progression Of Disease						Prostate		
+TCGA-EE-A3J5	467		STATUS	Locoregional Recurrence								
+TCGA-EE-A3J5	524		STATUS	Locoregional Recurrence								
+TCGA-EE-A3J5	745		STATUS	Locoregional Recurrence								
+TCGA-EE-A3J5	1112		STATUS	Distant Metastasis								
+TCGA-EE-A3J7	1270		STATUS	Regional Lymph Node								
+TCGA-EE-A3J8	1035		STATUS	Progression Of Disease						Lung		
+TCGA-EE-A3JA	539		STATUS	Regional Lymph Node								
+TCGA-EE-A3JA	804		STATUS	Locoregional Recurrence								
+TCGA-EE-A3JA	1357		STATUS	Distant Metastasis								
+TCGA-EE-A3JB	1434		STATUS	Locoregional Recurrence								
+TCGA-EE-A3JD	364		STATUS	Distant Metastasis								
+TCGA-EE-A3JD	398		STATUS	Distant Metastasis								
+TCGA-EE-A3JE	194		STATUS	Regional Lymph Node								
+TCGA-EE-A3JH	537		STATUS	Regional Lymph Node								
+TCGA-EE-A3JH	2672		STATUS	Distant Metastasis								
+TCGA-EE-A3JH	3309		STATUS	Distant Metastasis								
+TCGA-EE-A3JI	725		STATUS	New Primary Melanoma								
+TCGA-EE-A3JI	883		STATUS	New Primary Melanoma								
+TCGA-EE-A3JI	1400		STATUS	New Primary Melanoma								
+TCGA-EE-A3JI	1803		STATUS	New Primary Melanoma								
+TCGA-EE-A3JI	2712		STATUS	New Primary Melanoma								
+TCGA-EE-A3JI	3857		STATUS	New Primary Melanoma								
+TCGA-EE-A3JI	4209		STATUS	New Primary Melanoma								
+TCGA-EE-A3JI	4287		STATUS	New Primary Melanoma								
+TCGA-EE-A3JI	4390		STATUS	New Primary Melanoma								
+TCGA-EE-A3JI	4447		STATUS	Distant Metastasis								
+TCGA-EE-A3JI	4447		STATUS	Locoregional Recurrence								
+TCGA-EE-A17X	531		STATUS	Locoregional Recurrence								
+TCGA-EE-A17Y	317		STATUS	Regional Lymph Node								
+TCGA-EE-A17Y	423		STATUS	Locoregional Recurrence								
+TCGA-EE-A17Y	507		STATUS	Locoregional Recurrence								
+TCGA-EE-A17Z	138		STATUS	Locoregional Recurrence								
+TCGA-EE-A17Z	138		STATUS	Regional Lymph Node								
+TCGA-EE-A17Z	139		STATUS	Distant Metastasis								
+TCGA-EE-A20C	142		STATUS	New Primary Melanoma								
+TCGA-EE-A20C	2123		STATUS	New Primary Melanoma								
+TCGA-EE-A20C	2663		STATUS	Regional Lymph Node								
+TCGA-EE-A20C	3383		STATUS	Distant Metastasis								
+TCGA-EE-A20C	3515		STATUS	Locoregional Recurrence								
+TCGA-EE-A20C	3782		STATUS	Distant Metastasis								
+TCGA-EE-A20C	3782		STATUS	Regional Lymph Node								
+TCGA-EE-A20C	4027		STATUS	Distant Metastasis								
+TCGA-EE-A20C	4187		STATUS	Distant Metastasis								
+TCGA-EE-A20C	4321		STATUS	Distant Metastasis								
+TCGA-EE-A20C	4370		STATUS	Locoregional Recurrence								
+TCGA-EE-A20C	4396		STATUS	Distant Metastasis								
+TCGA-EE-A20C	4441		STATUS	Distant Metastasis								
+TCGA-EE-A20H	4667		STATUS	Regional Lymph Node								
+TCGA-EE-A20H	4963		STATUS	Distant Metastasis								
+TCGA-EE-A20H	4984		STATUS	Distant Metastasis								
+TCGA-EE-A20H	4990		STATUS	Distant Metastasis								
+TCGA-EE-A20I	53		STATUS	Distant Metastasis								
+TCGA-EE-A20I	63		STATUS	Regional Lymph Node								
+TCGA-EE-A20I	154		STATUS	Regional Lymph Node								
+TCGA-EE-A20I	172		STATUS	Locoregional Recurrence								
+TCGA-EE-A20I	370		STATUS	Locoregional Recurrence								
+TCGA-EE-A20I	385		STATUS	Distant Metastasis								
+TCGA-EE-A29A	867		STATUS	Locoregional Recurrence								
+TCGA-EE-A29A	999		STATUS	Locoregional Recurrence								
+TCGA-EE-A29A	1021		STATUS	Locoregional Recurrence								
+TCGA-EE-A29A	1279		STATUS	Regional Lymph Node								
+TCGA-EE-A29A	1454		STATUS	Locoregional Recurrence								
+TCGA-EE-A29A	1643		STATUS	Locoregional Recurrence								
+TCGA-EE-A29A	1708		STATUS	Distant Metastasis								
+TCGA-EE-A29A	1795		STATUS	Distant Metastasis								
+TCGA-EE-A29B	490		STATUS	New Primary Melanoma								
+TCGA-EE-A29B	746		STATUS	Locoregional Recurrence								
+TCGA-EE-A29B	772		STATUS	Locoregional Recurrence								
+TCGA-EE-A29B	851		STATUS	Locoregional Recurrence								
+TCGA-EE-A29B	970		STATUS	Locoregional Recurrence								
+TCGA-EE-A29B	1066		STATUS	Locoregional Recurrence								
+TCGA-EE-A29B	1156		STATUS	Locoregional Recurrence								
+TCGA-EE-A29B	1271		STATUS	Locoregional Recurrence								
+TCGA-EE-A29B	1624		STATUS	Locoregional Recurrence								
+TCGA-EE-A29B	1823		STATUS	Locoregional Recurrence								
+TCGA-EE-A29B	1863		STATUS	Locoregional Recurrence								
+TCGA-EE-A29B	1988		STATUS	Locoregional Recurrence								
+TCGA-EE-A29B	2023		STATUS	Distant Metastasis								
+TCGA-EE-A29B	2121		STATUS	Locoregional Recurrence								
+TCGA-EE-A29B	2151		STATUS	Distant Metastasis								
+TCGA-EE-A29B	2195		STATUS	Distant Metastasis								
+TCGA-EE-A29B	2334		STATUS	Distant Metastasis								
+TCGA-EE-A29B	2388		STATUS	Distant Metastasis								
+TCGA-EE-A29B	2446		STATUS	Distant Metastasis								
+TCGA-EE-A29C	204		STATUS	Regional Lymph Node								
+TCGA-EE-A29C	327		STATUS	Regional Lymph Node								
+TCGA-EE-A29C	404		STATUS	Distant Metastasis								
+TCGA-EE-A29C	2212		STATUS	Regional Lymph Node								
+TCGA-EE-A29G	726		STATUS	Locoregional Recurrence								
+TCGA-EE-A29G	974		STATUS	Locoregional Recurrence								
+TCGA-EE-A29G	1153		STATUS	Locoregional Recurrence								
+TCGA-EE-A29G	1282		STATUS	Locoregional Recurrence								
+TCGA-EE-A29G	1455		STATUS	Locoregional Recurrence								
+TCGA-EE-A29G	1679		STATUS	Locoregional Recurrence								
+TCGA-EE-A29G	2077		STATUS	Locoregional Recurrence								
+TCGA-EE-A29G	2105		STATUS	Distant Metastasis								
+TCGA-EE-A29G	2105		STATUS	Regional Lymph Node								
+TCGA-EE-A29H	1231		STATUS	Distant Metastasis								
+TCGA-EE-A29H	1237		STATUS	Locoregional Recurrence								
+TCGA-EE-A29L	55		STATUS	Distant Metastasis								
+TCGA-EE-A29N	478		STATUS	New Primary Melanoma								
+TCGA-EE-A29N	492		STATUS	Distant Metastasis								
+TCGA-EE-A29N	547		STATUS	Distant Metastasis								
+TCGA-EE-A29P	1668		STATUS	Distant Metastasis								
+TCGA-EE-A29Q	1256		STATUS	Regional Lymph Node								
+TCGA-EE-A29Q	1574		STATUS	Distant Metastasis								
+TCGA-EE-A29Q	1796		STATUS	Distant Metastasis								
+TCGA-EE-A29Q	1800		STATUS	Locoregional Recurrence								
+TCGA-EE-A29R	426		STATUS	Distant Metastasis								
+TCGA-EE-A29R	427		STATUS	Distant Metastasis								
+TCGA-EE-A29S	1418		STATUS	Locoregional Recurrence								
+TCGA-EE-A29S	1672		STATUS	Distant Metastasis								
+TCGA-EE-A29S	1687		STATUS	Distant Metastasis								
+TCGA-EE-A29S	1700		STATUS	Distant Metastasis								
+TCGA-EE-A29T	7483		STATUS	Regional Lymph Node								
+TCGA-EE-A29T	8305		STATUS	Locoregional Recurrence								
+TCGA-EE-A29T	10888		STATUS	Locoregional Recurrence								
+TCGA-EE-A29T	10916		STATUS	Distant Metastasis								
+TCGA-EE-A29T	10990		STATUS	Distant Metastasis								
+TCGA-EE-A29T	10990		STATUS	Locoregional Recurrence								
+TCGA-EE-A29T	11006		STATUS	Distant Metastasis								
+TCGA-EE-A29V	96		STATUS	Locoregional Recurrence								
+TCGA-EE-A29V	266		STATUS	Locoregional Recurrence								
+TCGA-EE-A29V	538		STATUS	Locoregional Recurrence								
+TCGA-EE-A29V	609		STATUS	Distant Metastasis								
+TCGA-EE-A29V	701		STATUS	Distant Metastasis								
+TCGA-EE-A29W	4408		STATUS	New Primary Melanoma								
+TCGA-EE-A29W	4423		STATUS	Regional Lymph Node								
+TCGA-EE-A29W	4840		STATUS	Locoregional Recurrence								
+TCGA-EE-A29X	391		STATUS	Regional Lymph Node								
+TCGA-EE-A29X	478		STATUS	Distant Metastasis								
+TCGA-EE-A29X	483		STATUS	Distant Metastasis								
+TCGA-EE-A29X	505		STATUS	Distant Metastasis								
+TCGA-EE-A180	850		STATUS	New Primary Melanoma								
+TCGA-EE-A180	1059		STATUS	Progression Of Disease						Trunk		
+TCGA-EE-A180	2366		STATUS	Distant Metastasis								
+TCGA-EE-A180	2606		STATUS	Distant Metastasis								
+TCGA-EE-A180	2726		STATUS	Distant Metastasis								
+TCGA-EE-A181	788		STATUS	Locoregional Recurrence								
+TCGA-EE-A182	270		STATUS	Locoregional Recurrence								
+TCGA-EE-A182	279		STATUS	Distant Metastasis								
+TCGA-EE-A182	300		STATUS	Locoregional Recurrence								
+TCGA-EE-A182	315		STATUS	Distant Metastasis								
+TCGA-EE-A182	328		STATUS	Distant Metastasis								
+TCGA-EE-A183	450		STATUS	Locoregional Recurrence								
+TCGA-EE-A183	699		STATUS	Locoregional Recurrence								
+TCGA-EE-A183	700		STATUS	Distant Metastasis								
+TCGA-EE-A184	1309		STATUS	Distant Metastasis								
+TCGA-EE-A184	1428		STATUS	Distant Metastasis								
+TCGA-EE-A184	1526		STATUS	Distant Metastasis								
+TCGA-EE-A185	85		STATUS	Distant Metastasis								
+TCGA-EE-A185	85		STATUS	Regional Lymph Node								
+TCGA-ER-A2NB	461		STATUS	Regional Lymph Node								
+TCGA-ER-A2NC	1157		STATUS	Distant Metastasis								
+TCGA-ER-A2NF	380		STATUS	Distant Metastasis								
+TCGA-ER-A2NG	766		STATUS	Distant Metastasis								
+TCGA-ER-A3ET	2435		STATUS	Distant Metastasis								
+TCGA-ER-A3EV	1422		STATUS	Distant Metastasis								
+TCGA-ER-A3PL	958		STATUS	Distant Metastasis								
+TCGA-ER-A19A	1617		STATUS	Progression Of Disease						Bladder		
+TCGA-ER-A19B	829		STATUS	Regional Lymph Node								
+TCGA-ER-A19B	1585		STATUS	Distant Metastasis								
+TCGA-ER-A19D	357		STATUS	Distant Metastasis								
+TCGA-ER-A19E	64		STATUS	Distant Metastasis								
+TCGA-ER-A19E	64		STATUS	Regional Lymph Node								
+TCGA-ER-A19J	98		STATUS	Distant Metastasis								
+TCGA-ER-A19K	211		STATUS	Regional Lymph Node								
+TCGA-ER-A19K	275		STATUS	Distant Metastasis								
+TCGA-ER-A19L	3689		STATUS	Distant Metastasis								
+TCGA-ER-A19M	1152		STATUS	Locoregional Recurrence								
+TCGA-ER-A19M	1280		STATUS	Locoregional Recurrence								
+TCGA-ER-A19M	1407		STATUS	Locoregional Recurrence								
+TCGA-ER-A19M	1730		STATUS	Distant Metastasis								
+TCGA-ER-A19O	308		STATUS	Distant Metastasis								
+TCGA-ER-A19O	347		STATUS	Distant Metastasis								
+TCGA-ER-A19O	349		STATUS	Distant Metastasis								
+TCGA-ER-A19P	4352		STATUS	Distant Metastasis								
+TCGA-ER-A19Q	1259		STATUS	Distant Metastasis								
+TCGA-ER-A19Q	1479		STATUS	Distant Metastasis								
+TCGA-ER-A19T	118		STATUS	Distant Metastasis								
+TCGA-ER-A19W	4126		STATUS	Distant Metastasis								
+TCGA-ER-A193	806		STATUS	Distant Metastasis								
+TCGA-ER-A197	110		STATUS	Distant Metastasis								
+TCGA-FR-A2OS	283		STATUS	Distant Metastasis								
+TCGA-FR-A2OS	283		STATUS	Locoregional Recurrence								
+TCGA-FR-A2OS	316		STATUS	Distant Metastasis								
+TCGA-FR-A3R1	678		STATUS	Locoregional Recurrence								
+TCGA-FR-A7U8	567		STATUS	Distant Metastasis								
+TCGA-FR-A7U9	95		STATUS	Locoregional Recurrence								
+TCGA-FR-A7U9	231		STATUS	Distant Metastasis								
+TCGA-FR-A69P	274		STATUS	Regional Lymph Node								
+TCGA-FR-A726	273		STATUS	Locoregional Recurrence								
+TCGA-FR-A728	64		STATUS	Locoregional Recurrence								
+TCGA-FR-A729	6299		STATUS	Distant Metastasis								
+TCGA-FS-A1Z0	5503		STATUS	Distant Metastasis								
+TCGA-FS-A1Z7	136		STATUS	Distant Metastasis								
+TCGA-FS-A1ZE	1007		STATUS	Distant Metastasis								
+TCGA-FS-A1ZE	1096		STATUS	Distant Metastasis								
+TCGA-FS-A1ZS	2861		STATUS	Regional Lymph Node								
+TCGA-FS-A1ZS	3031		STATUS	Regional Lymph Node								
+TCGA-FS-A1ZS	3896		STATUS	Distant Metastasis								
+TCGA-FS-A1ZS	4049		STATUS	Distant Metastasis								
+TCGA-FS-A1ZS	4049		STATUS	Regional Lymph Node								
+TCGA-FS-A4F0	872		STATUS	Locoregional Recurrence								
+TCGA-FS-A4F0	1055		STATUS	Locoregional Recurrence								
+TCGA-FS-A4F0	1328		STATUS	Locoregional Recurrence								
+TCGA-FS-A4F0	1359		STATUS	Distant Metastasis								
+TCGA-FS-A4F0	1828		STATUS	Distant Metastasis								
+TCGA-FS-A4F9	376		STATUS	Distant Metastasis								
+TCGA-FS-A4F9	376		STATUS	Locoregional Recurrence								
+TCGA-FS-A4F9	696		STATUS	Distant Metastasis								
+TCGA-FS-A4FD	2010		STATUS	Distant Metastasis								
+TCGA-FS-A4FD	2252		STATUS	Distant Metastasis								
+TCGA-FS-A4FD	2307		STATUS	Distant Metastasis								
+TCGA-FS-A4FD	2315		STATUS	Distant Metastasis								
+TCGA-FW-A3TV	139		STATUS	Locoregional Recurrence								
+TCGA-GF-A3OT	248		STATUS	Distant Metastasis								
+TCGA-GN-A4U3	2274		STATUS	Distant Metastasis								
+TCGA-GN-A4U3	2749		STATUS	Distant Metastasis								
+TCGA-GN-A4U3	2756		STATUS	Distant Metastasis								
+TCGA-GN-A4U4	217		STATUS	Distant Metastasis								
+TCGA-GN-A4U7	183		STATUS	Distant Metastasis								
+TCGA-GN-A4U9	151		STATUS	Locoregional Recurrence								
+TCGA-GN-A4U9	167		STATUS	Distant Metastasis								
+TCGA-GN-A4U9	260		STATUS	Distant Metastasis								
+TCGA-GN-A4U9	384		STATUS	Distant Metastasis								
+TCGA-GN-A4U9	384		STATUS	Locoregional Recurrence								
+TCGA-GN-A4U9	503		STATUS	Distant Metastasis								
+TCGA-GN-A4U9	579		STATUS	Distant Metastasis								
+TCGA-GN-A8LK	436		STATUS	Locoregional Recurrence								
+TCGA-GN-A8LK	1232		STATUS	Distant Metastasis								
+TCGA-GN-A8LK	1468		STATUS	Distant Metastasis								
+TCGA-GN-A9SD	1137		STATUS	Locoregional Recurrence								
+TCGA-GN-A9SD	1267		STATUS	Locoregional Recurrence								
+TCGA-GN-A9SD	1424		STATUS	Locoregional Recurrence								
+TCGA-GN-A9SD	1506		STATUS	Distant Metastasis								
+TCGA-GN-A9SD	1659		STATUS	Locoregional Recurrence								
+TCGA-GN-A9SD	1687		STATUS	Distant Metastasis								
+TCGA-GN-A26A	750		STATUS	Distant Metastasis								
+TCGA-GN-A26A	893		STATUS	Distant Metastasis								
+TCGA-GN-A26A	908		STATUS	Distant Metastasis								
+TCGA-GN-A26C	593		STATUS	Distant Metastasis								
+TCGA-GN-A26C	755		STATUS	Distant Metastasis								
+TCGA-GN-A26D	622		STATUS	Locoregional Recurrence								
+TCGA-GN-A26D	906		STATUS	Locoregional Recurrence								
+TCGA-GN-A26D	1002		STATUS	Locoregional Recurrence								
+TCGA-GN-A26D	1420		STATUS	Distant Metastasis								
+TCGA-GN-A26D	1420		STATUS	Locoregional Recurrence								
+TCGA-GN-A262	2908		STATUS	Locoregional Recurrence								
+TCGA-GN-A262	3068		STATUS	Locoregional Recurrence								
+TCGA-GN-A262	3161		STATUS	Locoregional Recurrence								
+TCGA-GN-A262	3477		STATUS	Locoregional Recurrence								
+TCGA-GN-A262	3663		STATUS	Distant Metastasis								
+TCGA-GN-A263	39		STATUS	Distant Metastasis								
+TCGA-GN-A264	3221		STATUS	Distant Metastasis								
+TCGA-GN-A265	99		STATUS	Regional Lymph Node								
+TCGA-GN-A266	109		STATUS	Distant Metastasis								
+TCGA-GN-A267	456		STATUS	Locoregional Recurrence								
+TCGA-GN-A267	806		STATUS	Locoregional Recurrence								
+TCGA-GN-A267	896		STATUS	Locoregional Recurrence								
+TCGA-GN-A267	1415		STATUS	Locoregional Recurrence								
+TCGA-GN-A267	1555		STATUS	Distant Metastasis								
+TCGA-GN-A267	1631		STATUS	Distant Metastasis								
+TCGA-GN-A267	1729		STATUS	Distant Metastasis								
+TCGA-GN-A268	908		STATUS	Locoregional Recurrence								
+TCGA-GN-A268	1806		STATUS	Distant Metastasis								
+TCGA-IH-A3EA	314		STATUS	Distant Metastasis								
+TCGA-OD-A75X	8987		STATUS	Distant Metastasis								
+TCGA-OD-A75X	9044		STATUS	Distant Metastasis								
+TCGA-OD-A75X	9045		STATUS	Distant Metastasis								
+TCGA-QB-A6FS	63		STATUS	Distant Metastasis								
+TCGA-QB-A6FS	191		STATUS	Distant Metastasis								
+TCGA-W3-A824	2406		STATUS	Distant Metastasis								
+TCGA-W3-A824	6940		STATUS	Distant Metastasis								
+TCGA-W3-AA1Q	1066		STATUS	Distant Metastasis								
+TCGA-W3-AA1Q	1492		STATUS	Distant Metastasis								
+TCGA-W3-AA1Q	1917		STATUS	Distant Metastasis								
+TCGA-W3-AA1Q	2009		STATUS	Distant Metastasis								
+TCGA-W3-AA1R	1037		STATUS	Distant Metastasis								
+TCGA-W3-AA1R	1187		STATUS	Distant Metastasis								
+TCGA-W3-AA1R	3136		STATUS	Distant Metastasis								
+TCGA-W3-AA1V	1219		STATUS	Distant Metastasis								
+TCGA-W3-AA1W	335		STATUS	Regional Lymph Node								
+TCGA-W3-AA1W	761		STATUS	Distant Metastasis								
+TCGA-W3-AA21	2952		STATUS	Distant Metastasis								
+TCGA-WE-A8K5	1498		STATUS	Distant Metastasis								
+TCGA-WE-A8K6	256		STATUS	Distant Metastasis								
+TCGA-WE-A8K6	272		STATUS	Distant Metastasis								
+TCGA-WE-A8K6	272		STATUS	Locoregional Recurrence								
+TCGA-WE-A8ZM	646		STATUS	Locoregional Recurrence								
+TCGA-WE-A8ZM	2987		STATUS	Locoregional Recurrence								
+TCGA-WE-A8ZM	3082		STATUS	Locoregional Recurrence								
+TCGA-WE-A8ZN	1463		STATUS	Distant Metastasis								
+TCGA-WE-A8ZN	1463		STATUS	Locoregional Recurrence								
+TCGA-WE-A8ZN	1605		STATUS	Distant Metastasis								
+TCGA-WE-A8ZO	1371		STATUS	Regional Lymph Node								
+TCGA-WE-A8ZO	1795		STATUS	Progression Of Disease						Lung		
+TCGA-WE-A8ZQ	1757		STATUS	Distant Metastasis								
+TCGA-WE-A8ZT	69		STATUS	Locoregional Recurrence								
+TCGA-WE-A8ZX	326		STATUS	Locoregional Recurrence								
+TCGA-WE-A8ZY	1389		STATUS	Distant Metastasis								
+TCGA-WE-AAA0	650		STATUS	Distant Metastasis								
+TCGA-WE-AAA4	419		STATUS	Locoregional Recurrence								
+TCGA-WE-AAA4	523		STATUS	Distant Metastasis								
+TCGA-YG-AA3O	999		STATUS	Regional Lymph Node								
+TCGA-Z2-AA3S	2727		STATUS	Distant Metastasis								
+TCGA-3N-A9WC	2022		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-BF-A1PU	387		STATUS	Last Follow Up								
+TCGA-BF-A1PV	14		STATUS	Last Follow Up								
+TCGA-BF-A1PZ	853		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-BF-A1Q0	831		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-BF-A3DJ	464		STATUS	Last Follow Up								
+TCGA-BF-A3DL	769		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-BF-A3DM	601		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-BF-A3DN	717		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-BF-A5EO	703		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-BF-A5EP	335		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-BF-A5EQ	323		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-BF-A5ER	327		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-BF-A5ES	490		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-BF-AAP0	454		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A1Q4	3408		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A1Q7	4053		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A1QA	2765		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-D3-A1QB	2912		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A2JA	3514		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A2JC	2639		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A2JF	1888		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A2JH	1280		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A2JL	5219		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A2JO	2010		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-D3-A2JP	1812		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-D3-A3BZ	3976		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A3C7	1429		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A3C8	1409		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-D3-A3CB	5065		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A3CC	2644		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-D3-A3MR	3151		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A3MU	1209		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-D3-A3MV	1378		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A5GL	3826		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A5GN	4129		STATUS	Last Follow Up								
+TCGA-D3-A5GO	4195		STATUS	Last Follow Up								
+TCGA-D3-A5GR	5424		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-D3-A5GS	553		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-D3-A5GT	487		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-D3-A5GU	3808		STATUS	Last Follow Up								
+TCGA-D3-A8GD	718		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A8GE	804		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-D3-A8GJ	7342		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A8GK	5177		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A8GN	4897		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A8GP	4646		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A51E	5318		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A51F	1695		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A51H	1714		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A51J	4414		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A51K	1002		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D3-A51N	688		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-D3-A51R	1941		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-D3-A51T	818		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D9-A1JW	111		STATUS	Last Follow Up							Tumor Free	
+TCGA-D9-A1X3	551		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-D9-A3Z3	678		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D9-A4Z3	505		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D9-A4Z5	218		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D9-A6E9	301		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D9-A6EA	766		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D9-A6EC	2359		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-D9-A148	4609		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-D9-A149	1663		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-DA-A1HV	2329		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-DA-A1HY	4407		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-DA-A1I1	6311		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-DA-A1I5	3650		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-DA-A1I7	2246		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-DA-A3F8	1319		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-DA-A95V	2193		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-DA-A95W	765		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-DA-A95X	1880		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-DA-A95Z	396		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A1NK	1039		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A3HV	39		STATUS	Last Follow Up								
+TCGA-EB-A3XB	796		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A3XC	650		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A3XD	1160		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A3XE	180		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A3XF	278		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A3Y6	126		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A4IS	774		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A4OY	977		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A4OZ	620		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A4XL	777		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A5SG	2076		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A5SH	1643		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A5UL	891		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A5UM	779		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A5UN	1792		STATUS	Last Follow Up								Alive
+TCGA-EB-A5VV	214		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A6L9	1109		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A6QY	382		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A24C	632		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A24D	645		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A41A	262		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A41B	291		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A42Z	441		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A44O	81		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-EB-A44P	741		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A44Q	422		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A299	378		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A430	-2		STATUS	Last Follow Up								
+TCGA-EB-A431	568		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A551	590		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EB-A553	226		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A2A1	3527		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A2A2	1814		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A2A6	2620		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A2GB	1803		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A2GC	2051		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A2GE	5286		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A2GH	6699		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A2GI	1482		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A2GK	1665		STATUS	Last Follow Up								
+TCGA-EE-A2GL	2423		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-EE-A2GM	2296		STATUS	Last Follow Up								
+TCGA-EE-A2GO	3857		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A2GT	1365		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-EE-A2GU	2884		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A2M6	3932		STATUS	Last Follow Up								
+TCGA-EE-A2MK	5487		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A2MP	7563		STATUS	Last Follow Up								
+TCGA-EE-A2MR	4088		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A2MS	4942		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A2MT	2166		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A2MU	1620		STATUS	Last Follow Up								
+TCGA-EE-A3AA	3781		STATUS	Last Follow Up								
+TCGA-EE-A3AB	3733		STATUS	Last Follow Up								
+TCGA-EE-A3AC	1948		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A3AE	1658		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A3J7	1949		STATUS	Last Follow Up								
+TCGA-EE-A3JB	6138		STATUS	Last Follow Up								
+TCGA-EE-A3JE	1562		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A3JH	4086		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A20B	4070		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A20F	2785		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A29E	1940		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A29H	1966		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A29M	1729		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A29P	1716		STATUS	Last Follow Up								
+TCGA-EE-A29R	440		STATUS	Last Follow Up								
+TCGA-EE-A29T	11252		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-EE-A29W	5932		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-ER-A1A1	3196		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-ER-A2NH	1264		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-ER-A3PL	1010		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-ER-A19A	2365		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-ER-A19G	9188		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-ER-A19S	1505		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-ER-A42L	4533		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-ER-A196	1785		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-FR-A3R1	685		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-FR-A3YN	2828		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-FR-A7U8	847		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-FR-A7U9	571		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-FR-A7UA	1164		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-FR-A8YE	3176		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-FR-A44A	5299		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-FR-A69P	478		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-FR-A728	583		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-FR-A729	6716		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-FS-A1ZM	3080		STATUS	Last Follow Up								
+TCGA-FS-A1ZS	4526		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-FS-A1ZT	1617		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-FS-A1ZW	1505		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-FS-A4F0	2367		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-FS-A4F9	1035		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-FW-A3I3	531		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-FW-A3R5	1124		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-FW-A3TV	411		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-FW-A5DX	640		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-FW-A5DY	587		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-GF-A2C7	21		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-GF-A3OT	301		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-GF-A4EO	591		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-GF-A6C8	62		STATUS	Last Follow Up								Alive
+TCGA-GF-A6C9	480		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-GN-A4U3	3708		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-GN-A4U4	1197		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-GN-A4U5	1156		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-GN-A4U8	1487		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-GN-A262	4255		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-GN-A265	2948		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-HR-A2OG	7		STATUS	Last Follow Up								
+TCGA-IH-A3EA	524		STATUS	Last Follow Up								
+TCGA-LH-A9QB	11217		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-QB-A6FS	220		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-RP-A690	6		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-RP-A693	10		STATUS	Last Follow Up								
+TCGA-RP-A694	21		STATUS	Last Follow Up								
+TCGA-W3-A824	6940		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-W3-AA1W	6666		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-WE-A8JZ	731		STATUS	Last Follow Up								
+TCGA-WE-A8K1	1492		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-WE-A8K6	546		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-WE-A8ZM	3082		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-WE-A8ZN	1794		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-WE-A8ZO	2145		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-WE-A8ZQ	1923		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-WE-A8ZT	359		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-WE-A8ZX	1089		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-WE-AA9Y	370		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-WE-AAA0	1229		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-WE-AAA3	651		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-WE-AAA4	760		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-XV-AB01	403		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-YD-A9TA	1496		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-YD-A89C	210		STATUS	Last Follow Up								
+TCGA-YG-AA3P	439		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-Z2-A8RT	839		STATUS	Last Follow Up							Tumor Free	Alive
+TCGA-Z2-AA3S	2950		STATUS	Last Follow Up							With Tumor	Alive
+TCGA-Z2-AA3V	486		STATUS	Last Follow Up							Tumor Free	Alive

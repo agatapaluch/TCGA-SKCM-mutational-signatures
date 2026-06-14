@@ -1,0 +1,4 @@
+"analysis","p_value","x_axis_max_months","administrative_censoring","n_total","n_metastasis","n_primary"
+"OS_from_sample",0.991357476657804,35,FALSE,425,347,78
+"DSS_from_sample",0.394505942207816,35,FALSE,425,347,78
+"PFS_from_sample",0.00794388143898384,35,FALSE,351,273,78
